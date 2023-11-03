@@ -23,14 +23,14 @@
         h5 Figura 1.
         span Principales OTA en el mundo
       figure.mt-4
-        img(src="@/assets/curso/tema2/1.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema2/1.svg" data-aos="zoom-in-up" alt="Figura que muestra los  principales OTA en el mundo como son: Agoda, Airbnb, Booking.com, Expedia, HostelWorld, Despegar, Price Travel, Tiquetes Baratos, entre otros.")
         p.text-small Nota. Elaboración propia con base en Hotelmize.com y Cludbeds.com
     
     .col-xl-10.m-auto.mt-5
       .row
         .col-lg-5.mb-4.mb-lg-0.pe-lg-0
           figure
-            img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-right")
+            img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-right" alt="Imagen que muestra herramientas tecnológicas del sector turístico como son: trivago, Tripadvisor, Hipmunk, Google, Skyscanner, Kayak, Hotels Combined, entre otras.")
         .col-lg-7.ps-lg-0
           .h-100.p-4.d-flex.align-content-center(style="background-color:#B6E1FD;" data-aos="zoom-in-left")
             p.mb-0 Otra de las herramientas tecnológicas disponibles para las empresas del sector turístico son los metabuscadores que son herramientas de búsqueda avanzada que utilizan los datos originados en la combinación de los motores de búsqueda como Google y sitios web de OTA, de reservas y páginas web de hoteles, para agrupar y exhibir las tarifas actualizadas de muchos hoteles diferentes en un destino determinado y ofrecer al huésped la posibilidad de comparar las tarifas de diferentes opciones de alojamiento.
@@ -40,13 +40,13 @@
     ImagenInfografica.color-acento-botones.mt-5
       template(v-slot:imagen)
         figure
-          img(src="@/assets/curso/tema2/3.svg" data-aos="zoom-in-up")
+          img(src="@/assets/curso/tema2/3.svg" data-aos="zoom-in-up" alt="Imagen que muestra 3 metabuscadores en turismo, los cuales son:  trivago, Kayak y Google Hotel Ads, descritos en la parte inferior de dicha imagen.")
       .tarjeta.color-acento-botones.p-4(x="12%" y="93%" numero="+")
         p.mb-0.text-white Es uno de los metabuscadores hoteleros por excelencia en España.
       .tarjeta.color-acento-botones.p-4(x="50%" y="93%" numero="+")
         p.mb-0.text-white Busca en cientos de webs de viajes a la vez y muestra a los viajeros la información que necesitan para elegir el vuelo, hotel, carro de alquiler o paquete de viaje perfectos.
       .tarjeta.color-acento-botones.p-4(x="89%" y="93%" numero="+")
-        p.mb-0.text-white Es una plataforma #[em.text-white on line], como una evolución de Google Hotel Finder, especialmente para la distribución hotelera que dirige la audiencia en busca por alojamiento directamente para las reservas o ventas directas.
+        p.mb-0.text-white Es una plataforma #[em.text-white online], como una evolución de Google Hotel Finder, especialmente para la distribución hotelera que dirige la audiencia en busca por alojamiento directamente para las reservas o ventas directas.
     
     p.mt-5(data-aos="zoom-in") Adicionalmente a lo anterior, también se debe tener en cuenta que se ha incrementado el uso de herramientas tecnológicas en el sector gastronómico y de eventos, como, por ejemplo, para presentar un menú virtual a través de códigos QR, los pedidos a domicilio o realizar un evento virtual. A continuación, se presentan algunas de las herramientas digitales más utilizadas en Colombia:
 
@@ -54,54 +54,54 @@
       .col-lg-3.mb-4.col-md-6
         a.indicador__container(@click="modal1 = true")
           figure
-            img(src="@/assets/curso/tema2/4.svg" data-aos="flip-up")
+            img(src="@/assets/curso/tema2/4.svg" data-aos="flip-up" alt="Imagen decorativa")
         ModalA(:abrir-modal.sync="modal1")
           .row.align-items-center
             .col-md-6.col-lg-4.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/tema2/8.svg')
+                img(src='@/assets/curso/tema2/8.svg' alt="Logo comercial que representa a Rappi.")
             .col-md-6.col-lg-8
               p.text-white Nació en el año 2015, cuenta con más de 4.000 establecimientos en su plataforma digital de los cuales la mayoría hace parte del sector gastronómico; algunos de esos establecimientos son cocinas ocultas que solo comercializan comidas a domicilio. Le permite al usuario hacer seguimiento de su pedido y tener mayor eficiencia del uso del tiempo. Opera en Colombia, México, Argentina, Uruguay, Chile y Perú.
       .col-lg-3.mb-4.col-md-6
         a.indicador__container(@click="modal2 = true")
           figure
-            img(src="@/assets/curso/tema2/5.svg" data-aos="flip-up")
+            img(src="@/assets/curso/tema2/5.svg" data-aos="flip-up" alt="Imagen decorativa")
           .indicador--click(v-if="mostrarIndicador")
         ModalA(:abrir-modal.sync="modal2")
           .row.align-items-center
             .col-md-6.col-lg-4.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/tema2/9.svg')
+                img(src='@/assets/curso/tema2/9.svg' alt="Logo comercial que representa a iFood.")
             .col-md-6.col-lg-8
               p.text-white Creada en el año 2011 en Brasil llegó a Colombia a principios del año 2018 y tiene servicio en 7 ciudades principales como Bogotá, Cali, Medellín, Bucaramanga, Cartagena Barranquilla, Manizales, Santa Marta Pereira, entre otras. Actualmente está prestando sus servicios en países de América Latina, como Argentina y México.
               p.mt-4.text-white Cuenta con más de 4.000 establecimientos en Colombia en su plataforma digital. #[br] El objetivo de esta aplicación es brindar oportunidades a los negocios que no cuentan con una gran infraestructura para revolucionar la gastronomía a través de un canal comercial diferente a la venta presencial.
       .col-lg-3.mb-4.col-md-6
         a.indicador__container(@click="modal3 = true")
           figure
-            img(src="@/assets/curso/tema2/6.svg" data-aos="flip-up")
+            img(src="@/assets/curso/tema2/6.svg" data-aos="flip-up" alt="Imagen decorativa")
         ModalA(:abrir-modal.sync="modal3")
           .row.align-items-center
             .col-md-6.col-lg-4.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/tema2/10.svg')
+                img(src='@/assets/curso/tema2/10.svg' alt="Logo comercial que representa a Uber Eats.")
             .col-md-6.col-lg-8
-              p.text-white Llegó a Colombia en el año 2016 y tiene actualmente más de 3.000 restaurantes en su plataforma digital. Uber Eats ofrece a los usuarios eficacia, eficiencia y velocidad. El plus de esta aplicación es la inmediatez, ya que los repartidores o domiciliarios realizan el 50% de sus entregas en un tiempo de 30 minutos o menos, consiguiendo clientes felices y satisfechos con el servicio.
+              p.text-white Llegó a Colombia en el año 2016 y tiene actualmente más de 3.000 restaurantes en su plataforma digital. Uber Eats ofrece a los usuarios eficacia, eficiencia y velocidad. El plus de esta aplicación es la inmediatez, ya que los repartidores o domiciliarios realizan el 50 % de sus entregas en un tiempo de 30 minutos o menos, consiguiendo clientes felices y satisfechos con el servicio.
       .col-lg-3.mb-4.col-md-6
         a.indicador__container(@click="modal4 = true")
           figure
-            img(src="@/assets/curso/tema2/7.svg" data-aos="flip-up")
+            img(src="@/assets/curso/tema2/7.svg" data-aos="flip-up" alt="Imagen decorativa")
         ModalA(:abrir-modal.sync="modal4")
           .row.align-items-center
             .col-md-6.col-lg-4.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/tema2/11.svg')
+                img(src='@/assets/curso/tema2/11.svg' alt="Logo comercial que representa a DiDi Food.")
             .col-md-6.col-lg-8
               p.text-white Es una plataforma profesional de entrega de comida que conecta clientes, tiendas y repartidores. Didi Food se ha enfocado en apoyar pequeños y medianos negocios en tiempos de reactivación económica.
               p.mt-4.text-white  Uno de los objetivos de la marca es que los usuarios encuentren, a través de la app, una amplia variedad de restaurantes, opciones que nunca antes habían estado disponibles en plataformas digitales y con una de las tasas de servicio más bajas del mercado.
     
     .col-xl-8.m-auto.mt-5.col-lg-10
       figure
-        img(src="@/assets/curso/tema2/12.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema2/12.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
     
     p.mt-5(data-aos="zoom-in") Además, se dispone de varias plataformas digitales para llevar a cabo eventos virtuales, tal como se ha revisado durante este mismo programa anteriormente; las principales son:
 
@@ -109,29 +109,29 @@
       .col-md-6.mb-4.mb-md-0
         p.text-center #[em Zoom]
         figure
-          img(src="@/assets/curso/tema2/13.svg" data-aos="zoom-in-up" style="max-height:200px;max-width:450px;")
+          img(src="@/assets/curso/tema2/13.svg" data-aos="zoom-in-up" style="max-height:200px;max-width:450px;" alt="Imagen que muestra el logo comercial que representa a zoom.")
       .col-md-6.mb-4.mb-md-0
         p.text-center #[em Google Meet]
         figure
-          img(src="@/assets/curso/tema2/14.svg" data-aos="zoom-in-up" style="max-height:200px;max-width:450px;")
+          img(src="@/assets/curso/tema2/14.svg" data-aos="zoom-in-up" style="max-height:200px;max-width:450px;" alt="Imagen que muestra el logo comercial que representa a Google Meet.")
     .row.mt-md-5
       .col-md-6.mb-4.mb-md-0
         p.text-center #[em Microsoft Teams]
         figure
-          img(src="@/assets/curso/tema2/15.svg" data-aos="zoom-in-up" style="max-height:200px;max-width:450px;")
+          img(src="@/assets/curso/tema2/15.svg" data-aos="zoom-in-up" style="max-height:200px;max-width:450px;" alt="Imagen que muestra el logo comercial que representa a Microsoft Teams.")
       .col-md-6.mb-4.mb-md-0
         p.text-center #[em CrowdCast]
         figure
-          img(src="@/assets/curso/tema2/16.svg" data-aos="zoom-in-up" style="max-height:200px;max-width:450px;")
+          img(src="@/assets/curso/tema2/16.svg" data-aos="zoom-in-up" style="max-height:200px;max-width:450px;" alt="Imagen que muestra el logo comercial que representa a cowdcast.")
     .row.mt-md-5
       .col-md-6.mb-4.mb-md-0
         p.text-center #[em LiveStorm]
         figure
-          img(src="@/assets/curso/tema2/17.svg" data-aos="zoom-in-up" style="max-height:200px;max-width:450px;")
+          img(src="@/assets/curso/tema2/17.svg" data-aos="zoom-in-up" style="max-height:200px;max-width:450px;" alt="Imagen que muestra el logo comercial que representa a livestorm.")
       .col-md-6.mb-4.mb-md-0
         p.text-center #[em StreamYard]
         figure
-          img(src="@/assets/curso/tema2/18.svg" data-aos="zoom-in-up" style="max-height:200px;max-width:450px;")
+          img(src="@/assets/curso/tema2/18.svg" data-aos="zoom-in-up" style="max-height:200px;max-width:450px;" alt="Imagen que muestra el logo comercial que representa a StreamYard.")
     
     Separador.mt-5
 
@@ -146,18 +146,18 @@
           i.fas.fa-quote-left(style="color:#FFB338;font-size:28px;top:-15px;position:relative;")
         .col-md-8.col-8
           .p-4
-            p.mb-0.text-center #[em Social media] es diferente a la red social. Social media se refiere a los medios sociales utilizados, como por ejemplo canales como #[em Facebook, LinkedIn, Instagram] entre otros en donde se puede publicar contenido para conversar y socializar. En cambio, red social, es el acto de construir comunidad, audiencias, seguidores, usuarios o grupos de personas.
+            p.mb-0.text-center #[em Social media] es diferente a la red social. Social media se refiere a los medios sociales utilizados, como por ejemplo canales como Facebook, LinkedIn, Instagram, entre otros en donde se puede publicar contenido para conversar y socializar. En cambio, red social, es el acto de construir comunidad, audiencias, seguidores, usuarios o grupos de personas.
         .col-md-2.col-2.text-center(style="place-self:end;")
           i.fas.fa-quote-right(style="color:#FFB338;font-size:28px;bottom:-16px;position:relative;")
     
-    p.mt-5(data-aos="zoom-in") Para los usuarios de los canales de social media, es importante poder identificar cuáles son las temáticas, contenidos, formatos o medios utilizados porque estos elementos son los que les permiten generar una afinidad, de acuerdo con el objetivo común y se convierten en los espacios mediante los cuales se encuentra o comparte información. Estas afinidades son las que llevan a que se diferencien categorías en las redes sociales convirtiendo a los usuarios en productores y consumidores de contenidos, lo que se conoce como prosumers.
+    p.mt-5(data-aos="zoom-in") Para los usuarios de los canales de social media, es importante poder identificar cuáles son las temáticas, contenidos, formatos o medios utilizados porque estos elementos son los que les permiten generar una afinidad, de acuerdo con el objetivo común y se convierten en los espacios mediante los cuales se encuentra o comparte información. Estas afinidades son las que llevan a que se diferencien categorías en las redes sociales convirtiendo a los usuarios en productores y consumidores de contenidos, lo que se conoce como #[em prosumers].
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FCC52E;border-radius:15px;")
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small El tema de las redes sociales es de interés para la visión general del comercio electrónico. Por ello, te invitamos a ver el siguiente video del SENA que trata sobre perfiles digitales en comunidades en línea y redes sociales:
@@ -175,18 +175,18 @@
         .col-lg-4.col-md-6.ps-md-0
           .h-100.p-4(style="background-color:#FFF9EB;" data-aos="zoom-in-left")
             figure
-              img(src="@/assets/curso/tema2/19.svg")
+              img(src="@/assets/curso/tema2/19.svg" alt="Imagen que muestra logos de las diferentes redes sociales como Facebook, Messenger, Instagram, WhatsApp, Twitter, Pinterest, TikTok, YouTube, LinkedIn, Spotify, entre otras.")
     
     .col-xl-10.m-auto.mt-5
       ImagenInfograficaB.infografiab1.color-acento-botones
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/tema2/20.svg' data-aos="zoom-in-up")
+            img(src='@/assets/curso/tema2/20.svg' data-aos="zoom-in-up" alt="Imagen decorativa")
         div(x="9.5%" y="70%" tooltip="Redes sociales masivas" numero="1")
           .row
             .col-lg-4.col-md-6.mb-4.mb-md-0
               figure
-                img(src="@/assets/curso/tema2/21.png")
+                img(src="@/assets/curso/tema2/21.png" alt="Imagen que muestra logos de las redes sociales masivas como YouTube, Friendster, Huenti, Facebook, Orkut, Myspace.com, entre otras.")
             .col-lg-8.col-md-6
               h5(style="color:#12263F !important;") Redes sociales masivas
               p(style="color:#12263F !important;") Dirigidas al público masivo en general, no se centran en un tema específico. Son las más comunes entre la población. Su principal función es la de establecer relaciones entre sus miembros, que pueden o no conocerse previamente. Las más comunes son Facebook o Twitter.
@@ -194,7 +194,7 @@
           .row
             .col-lg-4.col-md-6.mb-4.mb-md-0
               figure
-                img(src="@/assets/curso/tema2/22.svg")
+                img(src="@/assets/curso/tema2/22.svg" alt="Imagen que muestra logos de las redes sociales profesionales como Viadeo, LinkedIn, Xing, Neurona.com, Myspace.com, Flickr, entre otras.")
             .col-lg-8.col-md-6
               h5(style="color:#12263F !important;") Redes sociales profesionales
               p(style="color:#12263F !important;") Se estructuran a través de contenidos orientados a temas laborales o empresariales, son útiles para desarrollar relaciones, recomendaciones y búsqueda de oportunidades laborales o de negocios. Algunas de las más conocidas son LinkedIn o Xing.
@@ -202,7 +202,7 @@
           .row
             .col-lg-4.col-md-6.mb-4.mb-md-0
               figure
-                img(src="@/assets/curso/tema2/23.png")
+                img(src="@/assets/curso/tema2/23.png" alt="Imagen que muestra aspectos que hacen alusión a las rede sociales de nicho o temáticas.")
             .col-lg-8.col-md-6
               h5(style="color:#12263F !important;") Redes sociales de nicho o temáticas
               p(style="color:#12263F !important;") Se basan en un tema concreto y establecen relaciones entre usuarios interesados en él. Algunos ejemplos son Flickr, Dribble o Tripwolf.
@@ -210,7 +210,7 @@
           .row
             .col-lg-4.col-md-6.mb-4.mb-md-0
               figure
-                img(src="@/assets/curso/tema2/24.png")
+                img(src="@/assets/curso/tema2/24.png" alt="Imagen que muestra logos de las redes sociales de geolocalización como Foursquare, Facebook Places, Gowalfa, Google places, entre otras.")
             .col-lg-8.col-md-6
               h5(style="color:#12263F !important;") Redes sociales de geolocalización
               p(style="color:#12263F !important;") Llevan a socializar por medio de la localización física de los usuarios. Algunas de las más conocidas son Waze o Foursquare.
@@ -218,7 +218,7 @@
           .row
             .col-lg-4.col-md-6.mb-4.mb-md-0
               figure
-                img(src="@/assets/curso/tema2/25.png")
+                img(src="@/assets/curso/tema2/25.png" alt="Imagen que muestra logos de redes sociales de contenidos como Twitter, Facebook, YouTube, Google, entre otras.")
             .col-lg-8.col-md-6
               h5(style="color:#12263F !important;") Redes sociales de contenidos
               p(style="color:#12263F !important;") En esta categoría los elementos principales para los usuarios son la generación de contenidos y formatos para compartir. Las más importantes son YouTube, Instagram, Vimeo, Pinterest.
@@ -226,7 +226,7 @@
           .row
             .col-lg-4.col-md-6.mb-4.mb-md-0
               figure
-                img(src="@/assets/curso/tema2/26.png")
+                img(src="@/assets/curso/tema2/26.png" alt="Imagen que muestra logos de redes de entretenimiento como Instagram, Facebook, YouTube, entre otras. ")
             .col-lg-8.col-md-6
               h5(style="color:#12263F !important;") Redes sociales de entretenimiento y ocio
               p(style="color:#12263F !important;") En esta categoría las relaciones de los usuarios, se basan en sus gustos y afinidades, podemos mencionar a Tripadvisor, Runtastic, Strava o Tinder.
@@ -236,7 +236,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small  El tema relacionado con los tipos de redes sociales es de interés para la visión general del comercio electrónico. Por ello, te invitamos a ver el siguiente video del SENA que trata sobre perfiles digitales en comunidades en línea y tipos de redes sociales:
@@ -254,17 +254,17 @@
       .col-md-6.mb-4.mb-md-0
         .cajon.color-acento-contenido.p-4(style="background-color:#EBF7C5;" data-aos="zoom-in-right")
           p.mb-0 Al igual que en la sociedad, en las redes sociales se encuentran todo tipo de personas, cada una con sus propios gustos, preferencias y personalidades; para las empresas del sector turístico es conveniente conocer estos perfiles pues así identifican los tipos de usuarios a los que les interesa llegar.
-        p.mt-4(data-aos="zoom-in") En la siguiente tabla se encuentran descritos los principales perfiles de usuarios de las redes sociales, que son necesarios de identificar cuando se trata de establecer negocios a nivel de e-commerce, a saber:
+        p.mt-4(data-aos="zoom-in") En la siguiente tabla se encuentran descritos los principales perfiles de usuarios de las redes sociales, que son necesarios de identificar cuando se trata de establecer negocios a nivel de #[em e-commerce], a saber:
       .col-md-6
         figure
-          img(src="@/assets/curso/tema2/27.svg" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema2/27.svg" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Tabla 1.
       span Perfiles de usuarios en las redes sociales
     
     figure.mt-4.col-lg-6.col-md-8.col-10.m-auto
-      img(src="@/assets/curso/tema2/28.svg" data-aos="zoom-in")
+      img(src="@/assets/curso/tema2/28.svg" data-aos="zoom-in" alt="Imagen decorativa")
     
     .tabla-a.color-acento-contenido.mt-4 
       table
@@ -276,7 +276,7 @@
         tbody
           tr
             td.fw-bold.p-4 Círculo de confianza
-            td.p-4 Están interesados en mantener una relación con familiares y amigos, no en desarrollar nuevas relaciones. Como clientes, es difícil captar su atención, no son propensos a recibir e-mail de marcas y no les gusta cuando les envían mensajes por #[em Facebook] o #[em Twitter].
+            td.p-4 Están interesados en mantener una relación con familiares y amigos, no en desarrollar nuevas relaciones. Como clientes, es difícil captar su atención, no son propensos a recibir e-mail de marcas y no les gusta cuando les envían mensajes por Facebook o Twitter.
           tr
             td.fw-bold.p-4 Cauteloso
             td.p-4 Suelen ser muy selectivos sobre con quién se comunican y sobre el tipo de información que comparten en la red. Para ellos es muy importante que su información personal sea tratada con respeto por las marcas. Son muy poco activos en las redes sociales.
@@ -285,13 +285,13 @@
             td.p-4 Este grupo va a la red para encontrar y consumir información, no están interesados en crear contenido nuevo sino en recolectar opiniones a través de análisis de productos y comentarios de otros consumidores. Un buen contenido en el perfil de la marca en las redes sociales y los e-mails es la mejor forma de captar su atención. 
           tr
             td.fw-bold.p-4 Entusiastas
-            td.p-4 Este grupo lleva a la red sus intereses #[em off line] y buscan conectar con gente que tengan los mismos intereses. Son fundamentalmente jóvenes y bastante activos en las redes sociales. Les gusta ser los primeros en recibir información de las marcas, pero exigen que sea de calidad e interesante.
+            td.p-4 Este grupo lleva a la red sus intereses #[em offline] y buscan conectar con gente que tengan los mismos intereses. Son fundamentalmente jóvenes y bastante activos en las redes sociales. Les gusta ser los primeros en recibir información de las marcas, pero exigen que sea de calidad e interesante.
           tr
             td.fw-bold.p-4 Solicitantes de ofertas
-            td.p-4 Se caracterizan por buscar ofertas y descuentos a través de los canales on line, no son activos en crear contenido propio, pero sí participan con comentarios en artículos sobre productos o empresas.
+            td.p-4 Se caracterizan por buscar ofertas y descuentos a través de los canales #[em online], no son activos en crear contenido propio, pero sí participan con comentarios en artículos sobre productos o empresas.
           tr
             td.fw-bold.p-4 Compradores
-            td.p-4 Son los más interesados en comprar por la red, pero sus intereses no están limitados a las transacciones on line. Pasan mucho tiempo investigando y preparando sus compras, están más interesados en la calidad que en el precio.
+            td.p-4 Son los más interesados en comprar por la red, pero sus intereses no están limitados a las transacciones #[em online]. Pasan mucho tiempo investigando y preparando sus compras, están más interesados en la calidad que en el precio.
           tr
             td.fw-bold.p-4 Adictos a la noticias
             td.p-4 Se caracterizan por utilizar la red como fuente primaria de información para noticias y eventos. Son activos publicando artículos, comentando y dando votos a noticias y comentarios.
@@ -303,7 +303,7 @@
             td.p-4 La prioridad es hacer y mantener muchos amigos. Utilizan las redes sociales para hablar con sus amigos, pero no con colegas de trabajo. Están interesados en las ofertas y prefieren recibirlas por #[em e-mail]. 
           tr
             td.fw-bold.p-4 Los negocios primero
-            td.p-4 Están en internet para hacer negocios, buscando las últimas tendencias y abriendo oportunidades de trabajo. Usan e-mail frecuentemente, es fácil captarlos como fan o seguidores mediante la promesa de actualizaciones de producto o de información educativa.
+            td.p-4 Están en internet para hacer negocios, buscando las últimas tendencias y abriendo oportunidades de trabajo. Usan #[em e-mail] frecuentemente, es fácil captarlos como fan o seguidores mediante la promesa de actualizaciones de producto o de información educativa.
           tr
             td.fw-bold.p-4 Amplificadores
             td.p-4 Quieren conectarse, educarse y compartir recursos e información con otros, se toman sus interacciones sociales muy en serio.
@@ -314,16 +314,16 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_3 2.3  Características de la tienda #[em on line]
+      h2#t_2_3 2.3  Características de la tienda #[em online]
     
-    p(data-aos="zoom-in") Una tienda #[em on line], es un sitio diseñado en la red para vender productos o servicios mediante el comercio electrónico. Es una forma para alcanzar a más clientes, les da mayor visibilidad a las empresas y permite que las ventas aumenten.
-    p.mt-4(data-aos="zoom-in") Para la creación de una tienda virtual que ofrezca productos y/o servicios del sector turístico, se deben tener en cuenta varios aspectos, pero ante todo se debe garantizar una buena experiencia para los visitantes, por este motivo se inicia por estos tres aspectos: diseño, usabilidad y accesibilidad.
+    p(data-aos="zoom-in") Una tienda #[em online], es un sitio diseñado en la red para vender productos o servicios mediante el comercio electrónico. Es una forma para alcanzar a más clientes, les da mayor visibilidad a las empresas y permite que las ventas aumenten.
+    p.mt-4(data-aos="zoom-in") Para la creación de una tienda virtual que ofrezca productos o servicios del sector turístico, se deben tener en cuenta varios aspectos, pero ante todo se debe garantizar una buena experiencia para los visitantes, por este motivo se inicia por estos tres aspectos: diseño, usabilidad y accesibilidad.
 
     .col-xl-10.m-auto.mt-5
       ImagenInfograficaB.infografiab2.color-acento-botones
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/tema2/29.svg' data-aos="zoom-in-up")
+            img(src='@/assets/curso/tema2/29.svg' data-aos="zoom-in-up" alt="Imagen de tres personas frente a un celular, dos de las personas se encuentran  escogiendo productos y la otra persona va con un carro de compras. En dicha imagen se identifica el diseño, usabilidad y accesibilidad, los cuales se describen en la parte inferior.")
         div(x="44%" y="32%" tooltip="Diseño" numero="1")
           .row
             .col-lg-8.col-md-6.mb-md-0.mb-4
@@ -335,7 +335,7 @@
               p.mt-3 - En el diseño de la tienda en línea, se debe considerar la optimización de buscadores, el contenido debe facilitar que los buscadores puedan localizar la página. 
             .col-lg-4.col-md-6
               figure
-                img(src="@/assets/curso/tema2/30.png")
+                img(src="@/assets/curso/tema2/30.png" alt="Imagen decorativa")
         div(x="62%" y="39%" tooltip="Usabilidad" numero="2")
           .row
             .col-lg-8.col-md-6.mb-md-0.mb-4
@@ -349,7 +349,7 @@
               p.mt-3 - Las fichas de las experiencias turísticas deben ser detalladas y asociarlas con productos y/o servicios similares o complementarios para potenciar otra compra.
             .col-lg-4.col-md-6
               figure
-                img(src="@/assets/curso/tema2/31.png")
+                img(src="@/assets/curso/tema2/31.png" alt="Imagen decorativa")
         div(x="57%" y="80%" tooltip="Accesibilidad" numero="3")
           .row
             .col-lg-8.col-md-6.mb-md-0.mb-4
@@ -360,7 +360,7 @@
               p.mt-3 - Es importante realizar el etiquetado de las imágenes, para favorecer la indexación en los motores de búsqueda.
             .col-lg-4.col-md-6
               figure
-                img(src="@/assets/curso/tema2/32.png")
+                img(src="@/assets/curso/tema2/32.png" alt="Imagen decorativa")
 
     p.mt-5(data-aos="zoom-in") Una vez analizados estos aspectos, es importante saber que para crear una tienda en línea se necesita realizar una inversión económica, aunque no es tan alta como la que se necesita para un sitio físico. A continuación, se verán otros aspectos a tener en cuenta para la creación de una tienda virtual.
 
@@ -369,10 +369,10 @@
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0
             h5.fw-bold Escoger el nombre y el dominio de la tienda en línea. 
-            p.mt-4 El dominio es el nombre que se da a un sitio #[em web]. 
+            p.mt-4 El dominio es el nombre que se da a un sitio web. 
           .col-md-6.col-lg-8
             figure
-              img(src='@/assets/curso/tema2/34.png')
+              img(src='@/assets/curso/tema2/34.png' alt="Imagen decorativa")
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0
             h5.fw-bold Elegir una buena empresa de #[em hosting]. 
@@ -380,42 +380,42 @@
             p.mt-3 El proveedor de #[em hosting] es responsable de mantener el servidor en funcionamiento, protegerlo de ataques maliciosos y transferir el contenido (imágenes, textos, archivos, etc.) desde el servidor a los navegadores de los visitantes.
           .col-md-6.col-lg-8
             figure
-              img(src='@/assets/curso/tema2/35.png')
+              img(src='@/assets/curso/tema2/35.png' alt="Imagen decorativa")
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0
             h5.fw-bold Personalizar las experiencias turísticas.
             p.mt-4 Es recomendable personalizar el catálogo o la descripción de las experiencias turísticas, de modo que la tienda tenga un toque más personal y genere una imagen de marca que la diferencie de los competidores.
           .col-md-6.col-lg-8
             figure
-              img(src='@/assets/curso/tema2/36.png')
+              img(src='@/assets/curso/tema2/36.png' alt="Imagen decorativa")
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0
             h5.fw-bold Añadir todos los métodos de pago posibles.
             p.mt-4 Es recomendable incluir todos los métodos de pago posibles. Contemplar el pago con tarjeta, el pago mediante transferencia bancaria, el pago contra reembolso, el pago mediante plataformas y métodos de pago ágiles.
           .col-md-6.col-lg-8
             figure
-              img(src='@/assets/curso/tema2/37.png')
+              img(src='@/assets/curso/tema2/37.png' alt="Imagen decorativa")
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0
             h5.fw-bold Crear un blog.
             p.mt-4 En algunos casos, es recomendable abrir un blog que sirva como complemento de la tienda online, para presentar los productos y/o servicios de manera más detallada y descriptiva, añadiendo fotos y videos.
           .col-md-6.col-lg-8
             figure
-              img(src='@/assets/curso/tema2/38.png')
+              img(src='@/assets/curso/tema2/38.png' alt="Imagen decorativa")
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0
             h5.fw-bold Crear campañas de publicidad en línea.
             p.mt-4 Por medio de la publicidad online, se puede dar a conocer la tienda de manera económica y escalonada. De hecho, en la red existen una serie de herramientas de análisis que permiten saber con exactitud qué campañas publicitarias nos favorecen y cuáles no, de modo que ello nos permitirá rectificar al momento y evitar pérdidas innecesarias.
           .col-md-6.col-lg-8
             figure
-              img(src='@/assets/curso/tema2/39.png')
+              img(src='@/assets/curso/tema2/39.png' alt="Imagen decorativa")
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0
             h5.fw-bold Generar estrategias de mercadeo digital.
             p.mt-4 Es importante realizar estrategias de mercadeo digital que contribuyan a lograr los objetivos de ventas, y ayuden en el posicionamiento y en la creación de una imagen de marca.
           .col-md-6.col-lg-8
             figure
-              img(src='@/assets/curso/tema2/40.png')
+              img(src='@/assets/curso/tema2/40.png' alt="Imagen decorativa")
     
     p.mt-5(data-aos="zoom-in") Para seleccionar el nombre del perfil y el dominio de la tienda en línea son necesarias estas recomendaciones:
 
@@ -476,7 +476,7 @@
         h5 Figura 2.
         span Tienda #[em hosting], elementos de selección
       figure.mt-4
-        img(src="@/assets/curso/tema2/41.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema2/41.svg" data-aos="zoom-in-up" alt="Figura que muestra los elementos claves que se debe tener en cuenta al seleccionar una tienda de hosting como es el espacio web, la transparencia, copias de seguridad, soporte, precio, seguridad y el certificado SSl gratuito.")
     
     p.mt-5(data-aos="zoom-in") La velocidad de la tienda en línea es clave, tanto para los usuarios como para el posicionamiento en los buscadores. La empresa de hosting escogida debe garantizar el espacio suficiente para la tienda en línea, así como una buena velocidad de conexión. Lo importante es disponer de un buen servicio que garantice estar disponibles las 24 horas del día. 
     p.mt-4(data-aos="zoom-in") Se necesitará un CMS o sistema de gestión de contenidos, un programa informático que permita crear un entorno de trabajo para la creación y administración de contenidos. Actualmente existen muchos CMS para comercio electrónico que son gratuitos y fiables. Además, están diseñados para que puedan ser utilizados por personas sin conocimientos técnicos muy avanzados.
@@ -486,7 +486,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small Cómo crear una tienda online en #[em WordPress] es un tutorial muy fácil de entender y práctico para el tema que nos ocupa con relación al comercio electrónico, por lo que te invitamos a ver el siguiente video:
@@ -496,7 +496,7 @@
               i.fas.fa-play
     
     p.mt-5(data-aos="zoom-in") Por otra parte, se tiene el carrito de compras, que es un elemento clave en una tienda virtual. Debe estar configurado para permitir añadir, eliminar o modificar las experiencias turísticas que han sido seleccionadas.
-    p.mt-4(data-aos="zoom-in") Es recomendable que siempre esté visible en todas las páginas de la tienda para que el usuario no pierda de vista lo que lleva comprado y tenga la posibilidad de seguir incluyendo productos y/o servicios. Además, es necesario que se pueda visualizar la siguiente información:
+    p.mt-4(data-aos="zoom-in") Es recomendable que siempre esté visible en todas las páginas de la tienda para que el usuario no pierda de vista lo que lleva comprado y tenga la posibilidad de seguir incluyendo productos o servicios. Además, es necesario que se pueda visualizar la siguiente información:
 
     ul.fa-ul.mt-4
       li.mb-2(data-aos="zoom-in")
@@ -520,12 +520,12 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
-            p.mb-0.text-small El proceso para añadir el carrito de compras de Wordpress, así como la configuración de dicho carrito y el checkout de Wordpress, puedes consultarlos en los siguientes videos tutoriales:
+            p.mb-0.text-small El proceso para añadir el carrito de compras de Wordpress, así como la configuración de dicho carrito y el #[em checkout] de Wordpress, puedes consultarlos en los siguientes videos tutoriales:
             p.mt-3.text-small Añadir el carrito de la compra en la cabecera de WordPress.
-            p.mt-3.text-small.mb-0 Cómo configurar el carrito de compra y el checkout en Wordpress.
+            p.mt-3.text-small.mb-0 Cómo configurar el carrito de compra y el #[em checkout] en Wordpress.
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=vToi7lvmXuo" target="_blank")
               span Ver video
@@ -545,6 +545,8 @@
     p.mt-4(data-aos="zoom-in") ❖	Métodos fuera de línea.
     p.mt-2(data-aos="zoom-in") ❖	Métodos en línea.
 
+    p.mt-4(data-aos="fade-right") En estos métodos el pago no se efectúa durante la compra; se realiza después o de forma diferida. Dentro de esta clasificación están los siguientes medios de pago:
+
     .row.mt-5
       .col-md-6.mb-4.mb-md-0 
         LineaTiempoD.color-acento-botones
@@ -554,17 +556,17 @@
           p.text-small(numero="4" titulo="Financiación de la compra") Con esta opción, el cliente tiene la posibilidad de pagar su compra acordando un número de cuotas y fijando los plazos de la financiación con algunas de las plataformas financieras que actualmente cubren este servicio para comercios en línea. Cuando el cliente escoge financiar su compra, el pedido comienza a ser procesado debido a que la tienda virtual recibe la totalidad del valor de la compra de manera automática.
       .col-md-6
         figure
-          img(src="@/assets/curso/tema2/42.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema2/42.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FCC52E;border-radius:15px;")
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
-            p.mb-0.text-small La recepción de pagos en Wordpress, es un tema muy importante dentro de las transacciones de e-commerce, por esta razón te invitamos a consultar el siguiente video:
+            p.mb-0.text-small La recepción de pagos en Wordpress, es un tema muy importante dentro de las transacciones de #[em e-commerce], por esta razón te invitamos a consultar el siguiente video:
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=IshCcbJExc8" target="_blank")
               span Ver video
@@ -592,14 +594,14 @@
             p Conseguir que el costo no supere los márgenes comerciales y que, de un modo u otro, el consumidor asuma el costo de comprar en línea para que la actividad pueda ser rentable.
       .col-lg-6
         figure
-          img(src="@/assets/curso/tema2/44.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema2/44.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     p.mt-5(data-aos="zoom-in") Se deben tener en cuenta los siguientes factores:
 
     .row.mt-5
       .col-lg-6.mb-4.mb-lg-0
         figure
-          img(src="@/assets/curso/tema2/45.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/45.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-6
         .tarjeta.tarjeta--azul.p-4.p-lg-5.pb-lg-4.h-100(style="background-color:#F6F6F6;box-shadow:0px 4px 10px rgba(0,0,0,0.1);")
           SlyderA.slydera1(tipo="b")
@@ -616,13 +618,13 @@
               p.fw-bold Opciones de personalización del envío:
               p.mt-3 Brindar a los clientes más opciones de envío como, por ejemplo, un envío para regalo, en donde se da la opción de enviar el pedido a una dirección diferente a la del cliente, sin factura de compra para el destinatario del regalo y la posibilidad de una dedicatoria en una tarjeta especialmente diseñada.
    
-    p.mt-5(Data-aos="zoom-in") El proceso para hacer funcionar un comercio electrónico en su parte operativa se puede dividir en cuatro etapas, a saber:
+    p.mt-5(data-aos="zoom-in") El proceso para hacer funcionar un comercio electrónico en su parte operativa se puede dividir en cuatro etapas, a saber:
 
     .col-xl-10.m-auto.mt-5
       ImagenInfograficaB.infografiab3.color-acento-botones
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/tema2/47.png' data-aos="zoom-in-up")
+            img(src='@/assets/curso/tema2/47.png' data-aos="zoom-in-up" alt="Imagen decorativa")
         div(x="9.5%" y="72%" tooltip="Aprovisionamiento" numero="")
           .row
             .col-md-6.mb-4.mb-md-0
@@ -630,23 +632,23 @@
               p(style="color:#12263F !important;") Es una fase fundamental para dar un buen nivel de servicio y alcanzar una buena eficiencia operativa. Dentro de esta fase se incluyen los procesos de gestión de proveedores, gestión de pedidos, codificación de productos y la gestión de devoluciones al proveedor.
             .col-md-6
               figure
-                img(src="@/assets/curso/tema2/48.png")
+                img(src="@/assets/curso/tema2/48.png" alt="Imagen decorativa")
         div(x="25.5%" y="41.5%" tooltip="Almacenaje" numero="")
           .row
             .col-md-6.mb-4.mb-md-0
-              h5(style="color:#12263F !important;") 1. Almacenaje
-              p(style="color:#12263F !important;") Esta fase inicia cuando el proveedor entrega un pedido y comprende procesos como la recepción de mercancías, verificación de pedidos, verificación de productos, ubicación y control de stock e inventarios.
+              h5(style="color:#12263F !important;") 2. Almacenamiento
+              p(style="color:#12263F !important;") Esta fase inicia cuando el proveedor entrega un pedido y comprende procesos como la recepción de mercancías, verificación de pedidos, verificación de productos, ubicación y control de #[em(style="color:#12263F !important;") stock] e inventarios.
             .col-md-6
               figure
-                img(src="@/assets/curso/tema2/49.png")
+                img(src="@/assets/curso/tema2/49.png" alt="Imagen decorativa")
         div(x="51.4%" y="54%" tooltip="Logística de envío" numero="")
           .row
             .col-md-6.mb-4.mb-md-0
               h5(style="color:#12263F !important;") 3. Logística de envío
-              p(style="color:#12263F !important;") En esta fase se desarrollan las actividades cuando recibimos un pedido del cliente para que este llegue a su destino, como el control y reserva de stock, #[em(style="color:#12263F !important;") picking, handling, packing], facturación y envío.
+              p(style="color:#12263F !important;") En esta fase se desarrollan las actividades cuando recibimos un pedido del cliente para que este llegue a su destino, como el control y reserva de #[em(style="color:#12263F !important;") stock, picking, handling, packing], facturación y envío.
             .col-md-6
               figure
-                img(src="@/assets/curso/tema2/50.png")
+                img(src="@/assets/curso/tema2/50.png" alt="Imagen decorativa")
         div(x="59%" y="92.2%" tooltip="Logística de envío" numero="")
           .row
             .col-md-6.mb-4.mb-md-0
@@ -654,7 +656,7 @@
               p(style="color:#12263F !important;") En el comercio electrónico los costes de una devolución son mayores debido a que lleva asociado un coste de transporte y si, adicionalmente, se requiere un cambio debido a un error, un producto defectuoso o un cambio de talla, los costes serán mayores. En esta fase se incluyen los procesos de devoluciones de cliente, recogidas con sustitución, verificación de pedidos, relación con transporte, relación con compras y relación con CRM.
             .col-md-6
               figure
-                img(src="@/assets/curso/tema2/51.png")
+                img(src="@/assets/curso/tema2/51.png" alt="Imagen decorativa")
     
     .col-xl-10.m-auto.mt-5
       .titulo-sexto.color-acento-contenido
@@ -662,7 +664,7 @@
         span Esquema de procesos relacionados con las cuatro etapas de las operaciones en comercio electrónico
     .col-xl-8.col-lg-10.m-auto.mt-5
       figure.mt-4
-        img(src="@/assets/curso/tema2/52.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema2/52.svg" data-aos="zoom-in-up" alt="Figura que muestra un esquema de procesos dividido en 4 etapas de las operaciones en comercio electrónico relacionados en la parte inferior.")
         p.text-small.mt-4 Nota. Tomada de Aecem (2012). 
     
     Separador.mt-5
@@ -677,13 +679,13 @@
           p.mt-4(data-aos="zoom-in") A continuación, se analizarán algunas de las principales ventajas e inconvenientes de esta forma de comercio electrónico.
         .col-md-6
           figure
-            img(src="@/assets/curso/tema2/53.png" data-aos="zoom-in-left")
+            img(src="@/assets/curso/tema2/53.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     .col-xl-8.m-auto.mt-5.col-lg-10
       ImagenInfografica.infografia4.color-primario.mt-5
         template(v-slot:imagen)
           figure
-            img(src="@/assets/curso/tema2/54.svg" data-aos="zoom-in-up")
+            img(src="@/assets/curso/tema2/54.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
         .tarjeta.color-acento-botones.p-4(x="14%" y="15%" numero="+" style="background-color:#F4E8CD;")
           p.mb-0.fw-bold Ventajas del #[em dropshipping]:
           ul.lista-ul.mt-3.mb-0
@@ -695,7 +697,7 @@
               | No se necesita disponer de infraestructuras para el almacenaje y envío de los productos.
             li.mb-1.d-flex
               i.lista-ul__vineta
-              | El manejo del stock corre por cuenta de los mayoristas.
+              div El manejo del #[em stock] corre por cuenta de los mayoristas.
             li.mb-1.d-flex
               i.lista-ul__vineta
               | El catálogo de productos estará siempre actualizado.
@@ -722,7 +724,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small El #[em dropshipping], es un tema que concierne a todos los involucrados en el comercio electrónico. Podrás consultar el documento Guía interactiva de 7 pasos para abrir una tienda #[em online] con #[em Shopify] y enterarte un poco más al respecto, se encuentra disponible en el enlace:
@@ -743,7 +745,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small El comercio #[em online] se encuentra regularizado y normado por la Ley 1480 de 2011 del Estatuto del Consumidor, en el siguiente enlace podrás consultar la respectiva ley y tener más información al respecto:
@@ -759,7 +761,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small Otra norma que regula comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación es la Ley 527 de 1999, en el siguiente enlace podrás consultar la respectiva ley, y así tener más información al respecto:
@@ -775,7 +777,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small Para el control y la vigilancia que lleva a cabo la Superintendencia de Industria y Comercio, en relación con las actividades del comercio electrónico, se ha expedido la Guía sobre el tratamiento de datos personales para fines de comercio electrónico, en el siguiente enlace:
@@ -791,7 +793,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small La Ley 1581 del 17 de octubre de 2012 regula las disposiciones generales para la protección de datos personales y en el siguiente enlace podrás consultarla en totalidad:
@@ -820,7 +822,7 @@
     .col-xl-4.col-md-8.col-lg-6.m-auto.mt-5(@click="mostrarIndicador2 = false")
       a.indicador__container(@click="modal5 = true")
         figure
-          img(src="@/assets/curso/tema2/56.svg" data-aos="flip-up")
+          img(src="@/assets/curso/tema2/56.svg" data-aos="flip-up" alt="Imagen decorativa")
         .indicador--click(v-if="mostrarIndicador2")
       ModalA.modal_1_1(:abrir-modal.sync="modal5")
         .row.align-items-center

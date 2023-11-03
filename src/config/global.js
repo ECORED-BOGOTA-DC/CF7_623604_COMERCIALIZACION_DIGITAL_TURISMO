@@ -73,7 +73,7 @@ export default {
           },
           {
             numero: '2.3',
-            titulo: 'Características de la tienda on <em>line</em>',
+            titulo: 'Características de la tienda <em>online</em>',
             hash: 't_2_3',
           },
           {
@@ -106,7 +106,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tráfico en comercio electrónico',
+        titulo: 'Tráfico en comercio exterior',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -214,21 +214,21 @@ export default {
       link: 'https://www.youtube.com/watch?v=Vu_jQSLPGnk',
     },
     {
-      tema: 'Características de la tienda online',
+      tema: 'Características de la tienda <em>online</em>',
       referencia:
-        'Sofía Web. (2020). <em>Cómo crear una tienda online en WordPress</em>. [Video]. YouTube.',
+        'Sofía Web. (2020). <em>Cómo crear una tienda <em>online</em> en WordPress</em>. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=PV1hF2ER_Ws',
     },
     {
-      tema: 'Características de la tienda online',
+      tema: 'Características de la tienda <em>online</em>',
       referencia:
         'Cómo hacer una página. (2017). <em>Añadir el carrito de la compra en la cabecera de WordPress</em>. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=vToi7lvmXuo',
     },
     {
-      tema: 'Características de la tienda online',
+      tema: 'Características de la tienda <em>online</em>',
       referencia:
         'Grafiweb. (2021). <em>Cómo configurar el carrito de compra y el checkout en Wordpress</em>. [Video]. YouTube.',
       tipo: 'Video',
@@ -299,7 +299,7 @@ export default {
     {
       tema: 'Contenido digital',
       referencia:
-        'Google Ads. (s. f.). Utilice el Planificador de palabras clave',
+        'Google Ads. (s. f.). <em>Utilice el Planificador de palabras clave</em>.',
       tipo: 'Página web',
       link:
         'https://support.google.com/google-ads/answer/7337243?hl=es-419#zippy=%2Cagregue-palabras-clave-al-plan-y-consulte-las-previsiones',
@@ -328,7 +328,7 @@ export default {
     {
       termino: '<em>Dropshipping</em>',
       significado:
-        'modelo de negocio electrónico en el que el vendedor solo debe encargarse de promocionar el producto, realizar ventas y procesar el pedido. La logística para las entregas es por cuenta del mayorista o por medio de una empresa especializada',
+        'modelo de negocio electrónico en el que el vendedor solo debe encargarse de promocionar el producto, realizar ventas y procesar el pedido. La logística para las entregas es por cuenta del mayorista o por medio de una empresa especializada.',
     },
     {
       termino: '<em>Hosting</em>',
@@ -353,9 +353,9 @@ export default {
     },
     {
       referencia:
-        'Presidencia de la República de Colombia. (2013). Decreto 1377 de 2013. Por el cual se reglamenta parcialmente la Ley 1581 de 2012, Derogado Parcialmente por el Decreto 1081 de 2015',
+        'Presidencia de la República de Colombia. (2013). Decreto 1377 de 2013. Por el cual se reglamenta parcialmente la Ley 1581 de 2012, Derogado Parcialmente por el Decreto 1081 de 2015.',
       link:
-        'https://www.mintic.gov.co/arquitecturati/630/articles-9011_documento.pdf',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=53646',
     },
     {
       referencia:
@@ -386,12 +386,12 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
           cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Liliana Victoria Morales Guadró',
+          nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable Línea de Producción Distrito Capital',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',

@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Imagen decorativa")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 ¿Y qué tanto sabemos de negociar vía #[em web]?
+          h2 ¿Y qué tanto sabemos de negociar vía web?
         p.mb-4 Explicar conceptos relacionados con el comercio electrónico, compra y venta de productos por medios electrónicos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

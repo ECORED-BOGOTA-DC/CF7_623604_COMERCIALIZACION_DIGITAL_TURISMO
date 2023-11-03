@@ -21,7 +21,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small El contenido digital requiere tener en cuenta conceptos básicos y características del contenido digital, como lo podrás revisar en el siguiente video del SENA:
@@ -59,7 +59,7 @@
         | Crear contenido de valor.
       li.mb-2(data-aos="zoom-in")
         i.fas.fa-caret-right.fa-li(style="color:#FFB338;")
-        | Desarrollar contenido interesante y/o emocionante. 
+        | Desarrollar contenido interesante o emocionante. 
       li.mb-2(data-aos="zoom-in")
         i.fas.fa-caret-right.fa-li(style="color:#FFB338;")
         | Usar mensajes atractivos e imágenes llamativas.
@@ -71,7 +71,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small El uso de planificadores de palabras clave permite investigar palabras orientadoras de sus campañas de búsqueda electrónica. En el documento que se ofrece en el siguiente enlace, encontrarás los aspectos más relevantes de estos planificadores y su uso en el contenido digital:
@@ -85,11 +85,11 @@
     .titulo-segundo
       h2#t_4_1 4.1  Tipos de contenido digital
     
-    p(data-aos="zoom-in") Muchas empresas, marketers y estrategas digitales han comprobado el poder que tiene la generación de contenidos para seducir a las audiencias. Por esta razón es necesario conocer las fases de viaje del consumidor, o el modelo de secuencia de compra, y es por esto que se han establecido unos objetivos que permiten lograr alcanzar el éxito a nivel de #[em social media marketing], estos objetivos son:
+    p(data-aos="zoom-in") Muchas empresas, #[em marketers] y estrategas digitales han comprobado el poder que tiene la generación de contenidos para seducir a las audiencias. Por esta razón es necesario conocer las fases de viaje del consumidor, o el modelo de secuencia de compra, y es por esto que se han establecido unos objetivos que permiten lograr alcanzar el éxito a nivel de #[em social media marketing], estos objetivos son:
 
     .col-xl-6.col-lg-8.m-auto.mt-5
       figure
-        img(src="@/assets/curso/tema4/2.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema4/2.svg" data-aos="zoom-in-up" alt="Imagen que muestra los objetivos social media marketing, loa cuales son: entretener, inspirar, educar y convencer")
     
     p.mt-5(data-aos="zoom-in") Para esto, las empresas del sector turístico pueden utilizar varios formatos. A continuación, se presentan los más conocidos: 
 
@@ -98,25 +98,25 @@
         .col-md-6.mb-4
           .h-100.p-4.p-lg-5.text-center(style="background-color:#FFF4E1;border-radius:20px;box-shadow:0px 3px 5px rgba(0,0,0,.1);" data-aos="flip-up")
             figure
-              img(src="@/assets/curso/tema4/3.svg" style="max-width:150px;display:inline;")
+              img(src="@/assets/curso/tema4/3.svg" style="max-width:150px;display:inline;" alt="Imagen decorativa")
             h5.mt-5 Blog
-            p.mt-3.mb-0 Se utilizan como una subsección del sitio #[em web] de la empresa turística y pueden incluir contenido original o contenido de un autor invitado. Puede ser una fuente de contenido para publicar en otros canales de la empresa.
+            p.mt-3.mb-0 Se utilizan como una subsección del sitio web de la empresa turística y pueden incluir contenido original o contenido de un autor invitado. Puede ser una fuente de contenido para publicar en otros canales de la empresa.
         .col-md-6.mb-4
           .h-100.p-4.p-lg-5.text-center(style="background-color:#FFF4E1;border-radius:20px;box-shadow:0px 3px 5px rgba(0,0,0,.1);" data-aos="flip-up")
             figure
-              img(src="@/assets/curso/tema4/4.svg" style="max-width:150px;display:inline;")
+              img(src="@/assets/curso/tema4/4.svg" style="max-width:150px;display:inline;" alt="Imagen decorativa")
             h5.mt-5 Infografías
             p.mt-3.mb-0 Son informativas y es una excelente manera de presentar contenido visual. Ayudan a mostrar contenido complejo o inusual de una manera creativa.
         .col-md-6.mb-4
           .h-100.p-4.p-lg-5.text-center(style="background-color:#FFF4E1;border-radius:20px;box-shadow:0px 3px 5px rgba(0,0,0,.1);" data-aos="flip-up")
             figure
-              img(src="@/assets/curso/tema4/5.svg" style="max-width:150px;display:inline;")
+              img(src="@/assets/curso/tema4/5.svg" style="max-width:150px;display:inline;" alt="Imagen decorativa")
             h5.mt-5 #[em Ebook]
             p.mt-3.mb-0 Son guías fáciles de leer enfocadas en un tema en específico. Ayudará a posicionarse como un experto en el sector turístico.
         .col-md-6.mb-4
           .h-100.p-4.p-lg-5.text-center(style="background-color:#FFF4E1;border-radius:20px;box-shadow:0px 3px 5px rgba(0,0,0,.1);" data-aos="flip-up")
             figure
-              img(src="@/assets/curso/tema4/6.svg" style="max-width:150px;display:inline;")
+              img(src="@/assets/curso/tema4/6.svg" style="max-width:150px;display:inline;" alt="Imagen decorativa")
             h5.mt-5 Video
             p.mt-3.mb-0 Pueden ser demostraciones de las experiencias turísticas, tutoriales y testimonios de clientes. Es un tipo de contenido atractivo y entretenido que es consumido de manera fácil.
     
@@ -127,38 +127,38 @@
         .p-4.p-md-5.d-flex.align-content-center.align-items-center.flex-wrap(style="background-color:#FFE4B9;border-radius:10px;min-height:260px;" data-aos="flip-up")
           p.mb-0.w-100.text-center Comenzar con una frase inicial que atraiga y explique claramente al lector lo que puede esperar.
         figure.mt-3.mb-3
-          img(src="@/assets/curso/tema4/7.svg" style="max-height:60px;")
+          img(src="@/assets/curso/tema4/7.svg" style="max-height:60px;" alt="Imagen decorativa")
         .p-4.p-md-5.d-flex.align-content-center.align-items-center.flex-wrap(style="background-color:#FFE4B9;border-radius:10px;min-height:260px;" data-aos="flip-up")
           p.mb-0.w-100.text-center Siempre tener en cuenta la audiencia a la cual se dirige el contenido y enfocarse en lo se le puede ofrecer.
         figure.mt-3.mb-3
-          img(src="@/assets/curso/tema4/7.svg" style="max-height:60px;")
+          img(src="@/assets/curso/tema4/7.svg" style="max-height:60px;" alt="Imagen decorativa")
         .p-4.p-md-5.d-flex.align-content-center.align-items-center.flex-wrap(style="background-color:#F8CDB5;border-radius:10px;min-height:260px;" data-aos="flip-up")
           p.mb-0.w-100.text-center No ser demasiado vendedor. 
       .col-lg-1(style="align-self:end;")
         figure.d-lg-block.d-none
-          img(src="@/assets/curso/tema4/8.svg" style="max-height:60px;position:relative;top:-120px;")
+          img(src="@/assets/curso/tema4/8.svg" style="max-height:60px;position:relative;top:-120px;" alt="Imagen decorativa")
         figure.mt-3.mb-3.d-lg-none
-          img(src="@/assets/curso/tema4/7.svg" style="max-height:60px;")
+          img(src="@/assets/curso/tema4/7.svg" style="max-height:60px;" alt="Imagen decorativa")
       .col-lg-3
         .p-4.p-md-5.d-flex.align-content-center.align-items-center.flex-wrap(style="background-color:#E4F4AE;border-radius:10px;min-height:260px;" data-aos="flip-up")
           p.mb-0.w-100.text-center Mantener el mismo estilo de escritura.
         figure.mt-3.mb-3.d-lg-block.d-none
-          img(src="@/assets/curso/tema4/9.svg" style="max-height:60px;")
+          img(src="@/assets/curso/tema4/9.svg" style="max-height:60px;" alt="Imagen decorativa")
         figure.mt-3.mb-3.d-lg-none
-          img(src="@/assets/curso/tema4/7.svg" style="max-height:60px;")
+          img(src="@/assets/curso/tema4/7.svg" style="max-height:60px;" alt="Imagen decorativa")
         .p-4.p-md-5.d-flex.align-content-center.align-items-center.flex-wrap(style="background-color:#E4F4AE;border-radius:10px;min-height:260px;" data-aos="flip-up")
           p.mb-0.w-100.text-center Investigar a la competencia y ver sobre qué temas están cubriendo.
         figure.mt-3.mb-3.d-lg-block.d-none
-          img(src="@/assets/curso/tema4/9.svg" style="max-height:60px;")
+          img(src="@/assets/curso/tema4/9.svg" style="max-height:60px;" alt="Imagen decorativa")
         figure.mt-3.mb-3.d-lg-none
-          img(src="@/assets/curso/tema4/7.svg" style="max-height:60px;")
+          img(src="@/assets/curso/tema4/7.svg" style="max-height:60px;" alt="Imagen decorativa")
         .p-4.p-md-5.d-flex.align-content-center.align-items-center.flex-wrap(style="background-color:#F8CDB5;border-radius:10px;min-height:260px;" data-aos="flip-up")
           p.mb-0.w-100.text-center Incluir un llamado a la acción (#[em Call To Action]). Son elementos diseñados para motivar a un visitante a que realice una acción específica.
       .col-lg-1(style="align-self:start;")
         figure.d-lg-block.d-none
-          img(src="@/assets/curso/tema4/8.svg" style="max-height:60px;position:relative;top:120px;")
+          img(src="@/assets/curso/tema4/8.svg" style="max-height:60px;position:relative;top:120px;" alt="Imagen decorativa")
         figure.mt-3.mb-3.d-lg-none
-          img(src="@/assets/curso/tema4/7.svg" style="max-height:60px;")
+          img(src="@/assets/curso/tema4/7.svg" style="max-height:60px;" alt="Imagen decorativa")
       .col-lg-3
         .p-4.p-md-5.d-flex.align-content-center.align-items-center.flex-wrap(style="background-color:#A6D3FF;border-radius:10px;min-height:260px;" data-aos="flip-up")
           p.mb-0.w-100.text-center Destacar las características que quieres que los lectores asocien con tu marca de la empresa turística. 
@@ -168,7 +168,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small El diseño de los contenidos digitales es el recurso más apto para ser efectivo al momento de vender un producto. El SENA ha construido el siguiente recurso que es de interés para el tema que estamos tratando. Te invitamos a revisarlo en el siguiente enlace:
@@ -215,7 +215,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small Es necesario llevarla a cabo la planeación de contenidos digitales, pues de esta forma daremos mayor seguridad no solo en el cómo y cuándo presentamos nuestra marca, sino aseguramos presencia de nuestra marca en el mercado, por ello te invitamos a observar el siguiente video que es de interés para este tema:
@@ -228,7 +228,7 @@
 
     .col-xl-10.m-auto.mt-5
       figure
-        img(src="@/assets/curso/tema4/10.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema4/10.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
     
     SlyderB.mt-5(:datos="datosSlyder")
  
@@ -247,55 +247,55 @@ export default {
       {
         titulo: 'Creator Studio de Facebook',
         texto:
-          'Es una herramienta que permite gestionar y programar las publicaciones de Facebook e Instagram, además de conseguir información que permita ganar seguidores y tráfico <em>web</em>.',
+          'Es una herramienta que permite gestionar y programar las publicaciones de Facebook e Instagram, además de conseguir información que permita ganar seguidores y tráfico web.',
         imagen: require('@/assets/curso/tema4/11.svg'),
       },
       {
-        titulo: '<em>Later</em>',
+        titulo: 'Later',
         texto:
-          'Es una <em>app</em> que permite programar publicaciones en Instagram. En este caso la automatización no es total, ya que la publicación no es automática. Se puede asociar una fotografía o imagen a un texto y escoger la fecha y hora de la publicación. Cuando llegue el momento aparecerá una notificación y habrá que exportar el contenido para que se publique.',
+          'Es una app que permite programar publicaciones en Instagram. En este caso la automatización no es total, ya que la publicación no es automática. Se puede asociar una fotografía o imagen a un texto y escoger la fecha y hora de la publicación. Cuando llegue el momento aparecerá una notificación y habrá que exportar el contenido para que se publique.',
         imagen: require('@/assets/curso/tema4/12.svg'),
       },
       {
-        titulo: '<em>Hootsuite</em>',
+        titulo: 'Hootsuite',
         texto:
-          'Se trata de una plataforma que permite gestionar varias redes sociales, como <em>Twitter, Facebook, Instagram y LinkedIn</em>. Incluso se puede publicar un mismo contenido en diferentes redes sociales a la vez. Es la única que permite programar una publicación automática en <em>Instagram</em>.',
+          'Se trata de una plataforma que permite gestionar varias redes sociales, como Twitter, Facebook, Instagram y LinkedIn. Incluso se puede publicar un mismo contenido en diferentes redes sociales a la vez. Es la única que permite programar una publicación automática en Instagram.',
         imagen: require('@/assets/curso/tema4/13.svg'),
       },
       {
-        titulo: '<em>Sproutsocial</em>',
+        titulo: 'Sproutsocial',
         texto:
           'Permite gestionar redes sociales. También es ideal como canal de comunicación con clientes y como herramienta para analizar y medir la efectividad de las acciones.',
         imagen: require('@/assets/curso/tema4/14.svg'),
       },
       {
-        titulo: '<em>CoSchedule</em>',
+        titulo: 'CoSchedule',
         texto:
           'Esta herramienta permite gestionar contenidos y publicarlos en redes sociales de una forma muy sencilla y rápida; además de crear un calendario con todas las publicaciones y analizar los resultados de cada una de ellas.',
         imagen: require('@/assets/curso/tema4/15.svg'),
       },
       {
-        titulo: '<em>TweetDeck</em>',
+        titulo: 'TweetDeck',
         texto:
-          'Fue creada por <em>Twitter</em> y permite publicar y controlar varias cuentas de esta red social desde un mismo panel.',
+          'Fue creada por Twitter y permite publicar y controlar varias cuentas de esta red social desde un mismo panel.',
         imagen: require('@/assets/curso/tema4/16.svg'),
       },
       {
-        titulo: '<em>Echobox</em>',
+        titulo: 'Echobox',
         texto:
-          'Esta herramienta es perfecta para compartir contenido en redes sociales de la forma más eficaz posible. A diferencia de otras, es capaz de decidir y sugerir qué contenido es mejor compartir para aumentar el tráfico. Se utiliza para <em>Twitter y Facebook</em>.',
+          'Esta herramienta es perfecta para compartir contenido en redes sociales de la forma más eficaz posible. A diferencia de otras, es capaz de decidir y sugerir qué contenido es mejor compartir para aumentar el tráfico. Se utiliza para Twitter y Facebook.',
         imagen: require('@/assets/curso/tema4/17.svg'),
       },
       {
-        titulo: '<em>Sked Social</em>',
+        titulo: 'Sked Social',
         texto:
           'Esta herramienta es ideal para planificar las publicaciones de Instagram, además tiene un calendario en el que se pueden guardar los borradores. Permite preparar una publicación con imagen, texto, <em>hashtags</em>, enlaces… Además, es un programa muy intuitivo.',
         imagen: require('@/assets/curso/tema4/18.svg'),
       },
       {
-        titulo: '<em>Planable</em>',
+        titulo: 'Planable',
         texto:
-          'Permite programar publicaciones en redes sociales y es perfecta para equipos de trabajo y colaboraciones. Es decir, los diferentes miembros del equipo pueden hacer modificaciones y comentarios antes de que se publique ese contenido. Es ideal para las empresas de content <em>marketing</em>, ya que los clientes pueden ver y aprobar los contenidos antes de que estos se publiquen.',
+          'Permite programar publicaciones en redes sociales y es perfecta para equipos de trabajo y colaboraciones. Es decir, los diferentes miembros del equipo pueden hacer modificaciones y comentarios antes de que se publique ese contenido. Es ideal para las empresas de <em>content marketing</em>, ya que los clientes pueden ver y aprobar los contenidos antes de que estos se publiquen.',
         imagen: require('@/assets/curso/tema4/19.svg'),
       },
     ],

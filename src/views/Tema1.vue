@@ -23,70 +23,70 @@
         .row(titulo="1920")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema1/2.svg')
+              img(src='@/assets/curso/tema1/2.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
             p A principios de 1920 apareció en EE. UU. la venta por catálogo, impulsada por empresas mayoristas. Este sistema de venta, revolucionario para la época, consistía en un catálogo con fotos ilustrativas de los productos a vender.
             p.mt-4 El sistema permitía tener mejor llegada a las personas (evitaba la necesidad de tener que atraer a los clientes hasta los locales de venta), lo que posibilitó a las tiendas tener clientes en zonas rurales (gran masa de personas dedicadas al campo).
         .row(titulo="1951")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema1/12.svg')
+              img(src='@/assets/curso/tema1/12.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
             p La venta por catálogo tomó mayor impulso con la aparición de las tarjetas de crédito; las cuales permitirían determinar un tipo de relación de mayor anonimato entre el cliente y el vendedor.
             p.mt-4 Esto fue posible gracias a la iniciativa de algunas empresas financieras que crearon este producto en los años 50. Actualmente, el mayor porcentaje de transacciones en línea se realizan utilizando esta forma de pago.
         .row(titulo="1960")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema1/13.svg')
+              img(src='@/assets/curso/tema1/13.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
             p En el año 1960 se desarrolló el sistema EDI (Electronic Data Interchange), este se podría considerar como el inicio del comercio electrónico y permitía las transacciones electrónicas y el intercambio de información comercial entre empresas.
         .row(titulo="1970")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema1/14.svg')
+              img(src='@/assets/curso/tema1/14.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
             p En ese momento aún no habían aparecido las computadoras como tal. No fue hasta la década de los años 1970 que surgieron las primeras relaciones comerciales que utilizaban un ordenador, pero aún tenían un servicio muy limitado. No fue hasta el 1980 que se modernizó el comercio por catálogo con la ayuda de la televisión con las “televentas”.
         .row(titulo="1981")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema1/15.svg')
+              img(src='@/assets/curso/tema1/15.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
             p En 1981, se realiza la primera venta por internet. La empresa Thompsons Holidays interconectó a sus agentes de viajes para que tuvieran acceso al catálogo y ofrecieran a sus clientes los servicios disponibles.
         .row(titulo="1983")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema1/16.svg')
+              img(src='@/assets/curso/tema1/16.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
-            p En 1983, se acuñó el término electronic e-commerce.
+            p En 1983, se acuñó el término #[em electronic e-commerce].
         .row(titulo="1991")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema1/17.svg')
+              img(src='@/assets/curso/tema1/17.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
             p A partir del año 1991 la NSF (National Science Foundation) permite el uso de internet con fines comerciales. Es durante esta década cuando empiezan a surgir importantes portales de venta online tales como Amazon o Ebay. Adicionalmente, Netscape desarrollaría el protocolo SSL, implicando ello un gran avance en términos de seguridad a la hora de compartir datos e información personal.
         .row(titulo="1995")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema1/18.svg')
+              img(src='@/assets/curso/tema1/18.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
             p El proceso de globalización en el que estamos inmersos lleva a las Naciones Unidas a la aprobación de una Ley Modelo y de una guía para su incorporación a los ordenamientos jurídicos internos de los diferentes países. El carácter gremial del derecho mercantil ha sido reemplazado por un comercio electrónico de ámbito mundial. En 1995 se crea la Organización Mundial de Comercio (OMC), a fin de normar y regular los procesos de intercambio comercial entre los países.
         .row(titulo="1997")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema1/19.svg')
+              img(src='@/assets/curso/tema1/19.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
             p Es recién a fines del siglo XX cuando se puede hablar del inicio del comercio electrónico, cuando las primeras empresas introdujeron un nuevo canal de ventas basado en internet, y donde nuevas empresas surgen como un modelo alternativo de negocios, siendo no las primeras pero sí las más exitosas hasta ahora Amazon.com, eBay, y otras.
             p.mt-4 En 1997, Coca-Cola desarrolla la posibilidad de comprar productos por medio de móviles y SMS.
         .row(titulo="1998")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema1/20.svg')
+              img(src='@/assets/curso/tema1/20.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
-            p En 1998 aparece Google, se funda PayPal y aparece la opción de compra y descarga de música a ttravéz de la Ritmoteca.
-        .row(titulo="1998")
+            p En 1998 aparece Google, se funda PayPal y aparece la opción de compra y descarga de música a través de la Ritmoteca.
+        .row(titulo="2000")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema1/21.svg')
+              img(src='@/assets/curso/tema1/21.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
             p El impulso a este nuevo modelo de negocios se vio bruscamente frenado por los eventos financieros ocurridos a finales del año 2000. El problema fue una corriente especulativa muy fuerte que se dio entre 1997 y 2001, en la cual las bolsas de valores de naciones occidentales vieron un rápido aumento de su valor debido al avance de las empresas vinculadas al nuevo sector de internet y a la llamada Nueva Economía.
     
@@ -96,7 +96,7 @@
     .col-xl-5.m-auto.col-lg-6.mt-5
       .cont_cita1.d-flex(data-aos="flip-up")
         i.fas.fa-quote-left(style="color:#3BC192;font-size:28px;")
-        h5.mt-2.p-2 El comercio electrónico es un proceso de compra, venta o intercambio de bienes servicios e información por medio de comunicación electrónicos, en donde la mayoría de las transacciones se realizan mediante pagos en línea y sin que exista una relación física. 
+        h5.mt-2.p-2 El comercio electrónico es un proceso de compra, venta o intercambio de bienes servicios e información por medio de comunicación electrónicos, en donde la mayoría de las transacciones se realizan mediante pagos en línea y sin que exista una relación física, entre las partes implicadas. 
         .text-end(style="align-self:end;")
           i.fas.fa-quote-right(style="color:#3BC192;font-size:28px;")
     
@@ -107,7 +107,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
             p.mb-0.text-small Podrás conocer un poco más sobre este interesante tema  en el video realizado por el SENA, que se encuentra en el enlace: 
@@ -201,7 +201,7 @@
       .row(titulo="Abierto 7/24")
         p Por estar en un medio en línea, no existe un horario de apertura y cierre.
       .row(titulo="Menos costo de mantenimiento")
-        p Una tienda on line no requiere de un espacio físico, aunque sí necesita de otro tipo de infraestructura, el costo es mínimo en comparación con los de una tienda física.
+        p Una tienda #[em online] no requiere de un espacio físico, aunque sí necesita de otro tipo de infraestructura, el costo es mínimo en comparación con los de una tienda física.
       .row(titulo="Inventario automatizado")
         p Esto permite ahorrar costos de mano de obra, ya que estará todo digitalizado.
       .row(titulo="Ubicación")

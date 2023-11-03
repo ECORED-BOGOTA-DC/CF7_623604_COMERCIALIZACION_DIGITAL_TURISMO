@@ -5,16 +5,16 @@
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-up")
       .titulo-principal__numero
         span 3
-      h1 Objetivos y métrica en el plan de mercadeo digital
+      h1 Tráfico en comercio exterior
     
     .bloque-texto-g.color-secundario.bloque1.p-3.p-sm-4.p-md-5(data-aos="flip-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 En el mercado existen más empresas que pueden llegar a ofrecer experiencias turísticas iguales o similares que las suyas, por eso es necesario desarrollar una estrategia que permita diferenciarse e incluso hacerse únicos para que los clientes nos elijan por encima de los competidores. Estas estrategias se construyen desde la planeación estratégica y debe ser única, potente para captar la atención del público objetivo y fácil de transmitir. Esto se conoce como la propuesta única de valor (USP: #[em Unique Selling Proposition]).
+        p.mb-0 En el mercado existen más empresas que pueden llegar a ofrecer experiencias turísticas iguales o similares que las suyas, por eso es necesario desarrollar una estrategia que permita diferenciarse e incluso hacerse únicos para que los clientes nos elijan por encima de los competidores. Estas estrategias se construyen desde la planeación estratégica y debe ser única, potente para captar la atención del público objetivo y fácil de transmitir. Esto se conoce como la propuesta única de valor (USP: Unique Selling Proposition).
     
-    p.mt-5(data-aos="zoom-in") Partiendo de la propuesta de valor, se debe dar a conocer la tienda on line para que los clientes conozcan el tipo de experiencias turísticas que se ofrecen y finalicen las transacciones con el mayor gasto medio posible.
+    p.mt-5(data-aos="zoom-in") Partiendo de la propuesta de valor, se debe dar a conocer la tienda #[em online] para que los clientes conozcan el tipo de experiencias turísticas que se ofrecen y finalicen las transacciones con el mayor gasto medio posible.
     p.mt-4(data-aos="zoom-in") Si bien no existe la receta perfecta que asegure el éxito de ventas en línea, se puede partir de una fórmula que ayuda a comprender algunas de las acciones que contribuyen a incrementar las ventas en internet:
 
     .mt-5.p-3.m-auto(style="max-width:fit-content;background-color:#B4E6FF;border-radius:20px;" data-aos="zoom-in")
@@ -29,7 +29,7 @@
             .tarjeta-flip__img(style="background-color:#FFE4B9;")
               .p-3.d-flex.align-content-center.flex-wrap(style="background-color:#FFCF82;min-height:250px;")
                 figure
-                  img(src="@/assets/curso/tema3/2.svg")
+                  img(src="@/assets/curso/tema3/2.svg" alt="Imagen decorativa")
               .p-4(style="background-color:#FFE4B9;")
                 h5 Incrementar las visitas
                 p.mb-0 Cuantas más personas visiten el sitio web, hay más oportunidades de venta.
@@ -52,7 +52,7 @@
             .tarjeta-flip__img(style="background-color:#D9ECFF;")
               .p-3.d-flex.align-content-center.flex-wrap(style="background-color:#AFD8FE;min-height:250px;")
                 figure
-                  img(src="@/assets/curso/tema3/3.svg")
+                  img(src="@/assets/curso/tema3/3.svg" alt="Imagen decorativa")
               .p-4(style="background-color:#D9ECFF;")
                 h5 Incrementar la tasa de conversión
                 p.mb-0 La tasa de conversión es el porcentaje de visitas que se convierten en ventas.
@@ -64,7 +64,7 @@
                   div Para mejorar la tasa de conversión es necesario que, con el mismo tráfico, se incrementen las ventas. 
                 li.d-flex
                   i.lista-ul__vineta(style="color:#EB6F2D;")
-                  div Mejorar la calidad de los visitantes del sitio #[em web].
+                  div Mejorar la calidad de los visitantes del sitio web.
                 li.d-flex
                   i.lista-ul__vineta(style="color:#EB6F2D;")
                   div Medir la tasa de rebote. 
@@ -83,7 +83,7 @@
             .tarjeta-flip__img(style="background-color:#E4F4AE;")
               .p-3.d-flex.align-content-center.flex-wrap(style="background-color:#CEEA6D;min-height:250px;")
                 figure
-                  img(src="@/assets/curso/tema3/4.svg")
+                  img(src="@/assets/curso/tema3/4.svg" alt="Imagen decorativa")
               .p-4(style="background-color:#E4F4AE;")
                 h5 Aumentar el pedido medio
                 p.mb-0 Cuanto más compra cada cliente, más alto será nuestro valor del volumen ventas.
@@ -109,7 +109,7 @@
           p.mb-0 Otro factor importante cuando hablamos de tráfico en el comercio electrónico, es el embudo de ventas (#[em funnel]). El embudo representa las diferentes fases del proceso comercial por el que transita un cliente potencial, hasta convertirse en un cliente fidelizado. Se necesita que los usuarios que navegan en internet visiten el sitio web de la empresa, permanezcan en la página y compren alguna de las experiencias turísticas, para esto se necesita desarrollar técnicas de promoción y ventas diferentes para cada fase. 
       .col-md-6(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema3/5.svg" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema3/5.svg" data-aos="zoom-in-left" alt="Imagen que muestra un grupo de personas en el borde cayendo hacia embudo dividido por categorías como atracción, interacción, conversión y al final en fidelización quedan algunas personas.")
     
     Separador.mt-5
 
@@ -126,14 +126,14 @@
             p.mt-4 Es decir, medir el comportamiento de un grupo de usuarios por medio de una muestra y cuyos resultados se aplican a la totalidad del grupo de usuarios de estudio. 
           .col-md-6.col-lg-8
             figure
-              img(src='@/assets/curso/tema3/7.png')
+              img(src='@/assets/curso/tema3/7.png' alt="Imagen decorativa")
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0
             h5.fw-bold Enfocado en el sitio
             p.mt-4 De manera censal enfocado en el sitio, que consiste en medir todo el tráfico que registra el sitio.
           .col-md-6.col-lg-8
             figure
-              img(src='@/assets/curso/tema3/8.png')
+              img(src='@/assets/curso/tema3/8.png' alt="Imagen decorativa")
     
     p.mt-5(data-aos="zoom-in") Adicional a los datos de audiencia, existen métricas e indicadores importantes que se deben tener en cuenta para mejorar los resultados del sitio web; los siguientes serían los más relevantes:
 
@@ -172,7 +172,7 @@
     p.mt-5(data-aos="zoom-in") A continuación, se presentan algunos de los informes más utilizados que permiten tener datos para mejorar la gestión del sitio web de experiencias turísticas:
 
     figure.mt-5
-      img(src="@/assets/curso/tema3/9.svg" data-aos="zoom-in-up")
+      img(src="@/assets/curso/tema3/9.svg" data-aos="zoom-in-up" alt="Imagen que muestra los informes mas utilizados que permiten tener datos para sitios web y se describen parte inferior.")
 
     Separador.mt-5
 
@@ -189,45 +189,45 @@
           p.text-small(numero="2" titulo="Páginas vistas") Total de visualizaciones de páginas registradas.
           p.text-small(numero="3" titulo="Duración de las visitas") Tiempo medio de las visitas realizadas.
           p.text-small(numero="4" titulo="Duración de las páginas vistas") Tiempo medio de las páginas realizadas.
-          p.text-small(numero="5" titulo="Páginas vistas por sesión") Con esta opción, el cliente tiene la posibilidad de pagar su compra acordando un número de cuotas y fijando los plazos de la financiación con algunas de las plataformas financieras que actualmente cubren este servicio para comercios en línea. Cuando el cliente escoge financiar su compra, el pedido comienza a ser procesado debido a que la tienda virtual recibe la totalidad del valor de la compra de manera automática.
+          p.text-small(numero="5" titulo="Páginas vistas por sesión") Es el resultado de dividir el número de páginas vistas por el número de visitas.
       .col-md-6
         figure
-          img(src="@/assets/curso/tema3/10.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema3/10.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     p.mt-5(data-aos="zoom-in") Es importante definir las métricas y analizar los resultados para poder tomar las decisiones de #[em marketing] adecuadas y lograr que nuestra tienda virtual tenga un buen desempeño.
-    p.mt-4(data-aos="zoom-in") Adicionalmente, hay otras métricas para medir la publicidad #[em on line], como se observa a continuación:
+    p.mt-4(data-aos="zoom-in") Adicionalmente, hay otras métricas para medir la publicidad #[em online], como se observa a continuación:
 
     .row.mt-5
       .col-md-6.mb-4.mb-md-0 
         LineaTiempoD.color-acento-botones
-          p.text-small(numero="1" titulo="Impresiones") Total de veces que un formato publicitario fue mostrado en una página #[em web] en un período de tiempo. 
+          p.text-small(numero="1" titulo="Impresiones") Total de veces que un formato publicitario fue mostrado en una página web en un período de tiempo. 
           p.text-small(numero="2" titulo="Clic") Total de veces que el usuario hizo clic en dicho formato publicitario.
           p.text-small(numero="3" titulo="Tasa de clic") Porcentaje de veces que un usuario expuesto a un formato publicitario hizo clic en el mismo.
-          p.text-small(numero="4" titulo="Coste por click (CPC)") Producto de dividir el dinero invertido en una determinada campaña entre el número de clics obtenido. 
+          p.text-small(numero="4" titulo="Coste por clic (CPC)") Producto de dividir el dinero invertido en una determinada campaña entre el número de clics obtenido. 
       .col-md-6
         figure
-          img(src="@/assets/curso/tema3/11.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema3/11.png" data-aos="zoom-in-left" alt="Imagen decorativa")
 
     Separador.mt-5
 
     .titulo-segundo
       h2#t_3_3 3.3  Herramientas de medición de comercio electrónico
     
-    p(data-aos="zoom-in") Para obtener los datos de audiencia, se utilizan distintas herramientas estadísticas de analítica #[em web] disponibles en el mercado; algunas son de pago y otras gratuitas. A continuación, se mencionan algunas de las herramientas más utilizadas.
+    p(data-aos="zoom-in") Para obtener los datos de audiencia, se utilizan distintas herramientas estadísticas de analítica web disponibles en el mercado; algunas son de pago y otras gratuitas. A continuación, se mencionan algunas de las herramientas más utilizadas.
 
     .col-xl-10.m-auto.mt-5
       ImagenInfograficaB.infografiab5.color-secundario
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/tema3/12.svg' data-aos="zoom-in-up")
+            img(src='@/assets/curso/tema3/12.svg' data-aos="zoom-in-up" alt="Imagen decorativa")
         div(x="27%" y="16%" tooltip="At internet" numero="1")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 At internet
-              p.mt-4 Empresa francesa creada en 1996 especialista en la medición de audiencia y en el rendimiento de los sitios #[em web], móviles, aplicaciones y redes sociales. 
+              p.mt-4 Empresa francesa creada en 1996 especialista en la medición de audiencia y en el rendimiento de los sitios web, móviles, aplicaciones y redes sociales. 
             .col-lg-4.col-md-6  
               figure
-                img(src="@/assets/curso/tema3/13.svg")
+                img(src="@/assets/curso/tema3/13.svg" alt="Logo comercial que representa a At internet.")
         div(x="67%" y="36%" tooltip="Omniture  SiteCatalyst" numero="2")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
@@ -235,7 +235,7 @@
               p.mt-4 Unidad comercial de #[em marketing] en línea y análisis #[em web] en Orem, Utah, EE. UU. Fue adquirido por Adobe Systems en 2009.
             .col-lg-4.col-md-6  
               figure
-                img(src="@/assets/curso/tema3/14.svg")
+                img(src="@/assets/curso/tema3/14.svg" alt="Logo que representa a Omniture SiteCatalyst.")
         div(x="91%" y="35%" tooltip="Webtrends" numero="3")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
@@ -243,33 +243,33 @@
               p.mt-4 Empresa privada con sede en Portland, Oregón, Estados Unidos. Proporciona análisis digital, optimización y software relacionado con el marketing digital. y comercio electrónico. Brinda servicios a aproximadamente 2.000 empresas.
             .col-lg-4.col-md-6  
               figure
-                img(src="@/assets/curso/tema3/15.svg")
+                img(src="@/assets/curso/tema3/15.svg" alt="Logo que representa a Webtrends.")
         div(x="39.5%" y="58%" tooltip="Weboscope" numero="4")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Weboscope
-              p.mt-4 Empresa francesa diseñada no tanto para ofrecer una simple medición del tráfico de los sitios #[em web] para su reconocimiento público, como para realizar un análisis exhaustivo, integral y personalizado de la actividad de los internautas dentro de cada #[em web], al servicio de los intereses particulares de las empresas usuarias de la herramienta.
+              p.mt-4 Empresa francesa diseñada no tanto para ofrecer una simple medición del tráfico de los sitios web para su reconocimiento público, como para realizar un análisis exhaustivo, integral y personalizado de la actividad de los internautas dentro de cada web, al servicio de los intereses particulares de las empresas usuarias de la herramienta.
             .col-lg-4.col-md-6  
               figure
-                img(src="@/assets/curso/tema3/16.svg")
+                img(src="@/assets/curso/tema3/16.svg" alt="Logo que representa la empresa a Weboscope.")
         div(x="9%" y="68%" tooltip="Google Analytics" numero="5")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Google Analytics
-              p.mt-4 Herramienta de analítica #[em web] de la empresa Google lanzada el 14 de noviembre de 2005. Ofrece información agrupada del tráfico que llega a los sitios #[em web] según la audiencia, la adquisición, el comportamiento y las conversiones que se llevan a cabo en el sitio #[em web].
+              p.mt-4 Herramienta de analítica web de la empresa Google lanzada el 14 de noviembre de 2005. Ofrece información agrupada del tráfico que llega a los sitios web según la audiencia, la adquisición, el comportamiento y las conversiones que se llevan a cabo en el sitio web.
             .col-lg-4.col-md-6  
               figure
-                img(src="@/assets/curso/tema3/17.svg")
+                img(src="@/assets/curso/tema3/17.svg" alt="Logo que representa a Google Analytics.")
         div(x="79%" y="84%" tooltip="Yahoo web Analytics" numero="6")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Yahoo web Analytics
-              p.mt-4 Herramienta de analítica web de la empresa Google lanzada el 14 de noviembre de 2005. Ofrece información agrupada del tráfico que llega a los sitios #[em web] según la audiencia, la adquisición, el comportamiento y las conversiones que se llevan a cabo en el sitio #[em web].
+              p.mt-4 Herramienta de analítica web de la empresa Google lanzada el 14 de noviembre de 2005. Ofrece información agrupada del tráfico que llega a los sitios web según la audiencia, la adquisición, el comportamiento y las conversiones que se llevan a cabo en el sitio web.
             .col-lg-4.col-md-6  
               figure
-                img(src="@/assets/curso/tema3/18.svg")
+                img(src="@/assets/curso/tema3/18.svg" alt="Logo que representa a Yahoo Web Analytics.")
 
-    p.mt-5(data-aos="zoom-in") Realizar mediciones es un aspecto clave para mejorar el desempeño del sitio en internet de experiencias turísticas, las herramientas de analítica #[em web], proporcionan datos que permiten implementar un proceso de mejora continua, lo importante es poder identificar la herramienta que se ajusta a la necesidad de la empresa turística. 
+    p.mt-5(data-aos="zoom-in") Realizar mediciones es un aspecto clave para mejorar el desempeño del sitio en internet de experiencias turísticas, las herramientas de analítica web, proporcionan datos que permiten implementar un proceso de mejora continua, lo importante es poder identificar la herramienta que se ajusta a la necesidad de la empresa turística. 
  
 
 

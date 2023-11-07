@@ -220,7 +220,7 @@
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/tema3/12.svg' data-aos="zoom-in-up" alt="Imagen decorativa")
-        div(x="27%" y="16%" tooltip="At internet" numero="1")
+        div(x="27.5%" y="16.5%" tooltip="At internet" numero="1")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 At internet
@@ -228,7 +228,7 @@
             .col-lg-4.col-md-6  
               figure
                 img(src="@/assets/curso/tema3/13.svg" alt="Logo comercial que representa a At internet.")
-        div(x="67%" y="36%" tooltip="Omniture  SiteCatalyst" numero="2")
+        div(x="68%" y="36%" tooltip="Omniture  SiteCatalyst" numero="2")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Omniture SiteCatalyst
@@ -236,7 +236,7 @@
             .col-lg-4.col-md-6  
               figure
                 img(src="@/assets/curso/tema3/14.svg" alt="Logo que representa a Omniture SiteCatalyst.")
-        div(x="91%" y="35%" tooltip="Webtrends" numero="3")
+        div(x="92%" y="38.5%" tooltip="Webtrends" numero="3")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Webtrends
@@ -244,7 +244,7 @@
             .col-lg-4.col-md-6  
               figure
                 img(src="@/assets/curso/tema3/15.svg" alt="Logo que representa a Webtrends.")
-        div(x="39.5%" y="58%" tooltip="Weboscope" numero="4")
+        div(x="39.5%" y="59%" tooltip="Weboscope" numero="4")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Weboscope
@@ -252,7 +252,7 @@
             .col-lg-4.col-md-6  
               figure
                 img(src="@/assets/curso/tema3/16.svg" alt="Logo que representa la empresa a Weboscope.")
-        div(x="9%" y="68%" tooltip="Google Analytics" numero="5")
+        div(x="8.8%" y="70.5%" tooltip="Google Analytics" numero="5")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Google Analytics
@@ -260,7 +260,7 @@
             .col-lg-4.col-md-6  
               figure
                 img(src="@/assets/curso/tema3/17.svg" alt="Logo que representa a Google Analytics.")
-        div(x="79%" y="84%" tooltip="Yahoo web Analytics" numero="6")
+        div(x="78.2%" y="83.5%" tooltip="Yahoo web Analytics" numero="6")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Yahoo web Analytics

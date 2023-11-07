@@ -134,7 +134,7 @@
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/4.svg')})`}")
-            .tarjeta-flip__contenido.p-4.p-lg-5.text-center
+            .tarjeta-flip__contenido.p-4.p-lg-5.text-center(style="background-color:#FEBBAC;")
               h5 Ubicuidad
               p Podemos realizar la compra desde cualquier parte del mundo y a cualquier hora del día.
       .col-xl-3.mb-4.mb-xl-0.col-md-6
@@ -142,21 +142,21 @@
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/5.svg')})`}")
-            .tarjeta-flip__contenido.p-4.p-lg-5.text-center
+            .tarjeta-flip__contenido.p-4.p-lg-5.text-center(style="background-color:#FEBBAC;")
               h5 Alcance global
               p Cada empresa establece el total de usuarios o clientes que su negocio en línea puede obtener de acuerdo con sus límites y normas.
       .col-xl-3.mb-4.mb-xl-0.col-md-6
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/6.svg')})`}")
-            .tarjeta-flip__contenido.p-4.p-lg-5.text-center
+            .tarjeta-flip__contenido.p-4.p-lg-5.text-center(style="background-color:#FEBBAC;")
               h5 Estándares
               p Los estándares de internet son mundiales, por lo que ello disminuye los costos de entrada de las empresas en el mercado, así como el esfuerzo de búsqueda por parte de los consumidores.
       .col-xl-3.mb-4.mb-xl-0.col-md-6
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/7.svg')})`}")
-            .tarjeta-flip__contenido.p-4.p-lg-5.text-center
+            .tarjeta-flip__contenido.p-4.p-lg-5.text-center(style="background-color:#FEBBAC;")
               h5 Multimedia en la web
               p La red permite incluir más recursos, con el fin de propiciar la acción de comprar, de modo que los productos y servicios se acompañan de imágenes, descripciones, vídeos explicativos, opiniones de los compradores, etc.
     .row.mt-xl-4
@@ -164,28 +164,28 @@
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/8.svg')})`}")
-            .tarjeta-flip__contenido.p-4.p-lg-5.text-center
+            .tarjeta-flip__contenido.p-4.p-lg-5.text-center(style="background-color:#FEBBAC;")
               h5 Interactividad
               p Permite una comunicación en ambos sentidos entre el vendedor y el comprador.
       .col-xl-3.mb-4.mb-xl-0.col-md-6
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/9.svg')})`}")
-            .tarjeta-flip__contenido.p-4.p-lg-5.text-center
+            .tarjeta-flip__contenido.p-4.p-lg-5.text-center(style="background-color:#FEBBAC;")
               h5 Densidad de la información
               p Se refiere a la cantidad y calidad de la información que está disponible para todos los participantes en el mercado.
       .col-xl-3.mb-4.mb-xl-0.col-md-6
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/10.svg')})`}")
-            .tarjeta-flip__contenido.p-4.p-lg-5.text-center
+            .tarjeta-flip__contenido.p-4.p-lg-5.text-center(style="background-color:#FEBBAC;")
               h5 Personalización
               p Permite personalizar la información que se muestra al consumidor en función de aspectos tales como sus preferencias, compras anteriores, búsquedas recientes, etc.
       .col-xl-3.mb-4.mb-xl-0.col-md-6
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/11.svg')})`}")
-            .tarjeta-flip__contenido.p-4.p-lg-5.text-center
+            .tarjeta-flip__contenido.p-4.p-lg-5.text-center(style="background-color:#FEBBAC;")
               h5 Adecuación
               p Es la capacidad de cambiar el producto o servicio entregado, considerando las preferencias de comportamiento del consumidor.
     
@@ -293,4 +293,6 @@ export default {
 .acordion .tarjeta.tarjeta--azul
   border-bottom: 1px #FFE4B9 solid
   background-color: transparent
+.tarjeta-flip.color-primario .tarjeta-flip__img
+  background-color: #B6E1FD
 </style>

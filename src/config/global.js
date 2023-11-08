@@ -462,19 +462,13 @@ export default {
       autores: [
         {
           nombre: 'Adriana Marcela Suarez Eljure',
-          cargo: 'Diseño web',
+          cargo: 'Diseño web e ilustración',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
           cargo: 'Desarrollo Fullstack',
-          centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
-        },
-        {
-          nombre: 'Adriana Marcela Suarez Eljure',
-          cargo: 'Ilustración',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },

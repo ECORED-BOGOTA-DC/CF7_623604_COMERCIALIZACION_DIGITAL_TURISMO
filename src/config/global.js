@@ -443,37 +443,43 @@ export default {
           cargo: 'Corrector de estilo',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Asesoría metodológica y pedagógica',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+        },
+        {
+          nombre: 'Nelly Parra Guarín',
+          cargo: 'Adecuación instruccional',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+        },
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
-          cargo: 'Diseñador de Contenidos Digitales',
+          nombre: 'Adriana Marcela Suarez Eljure',
+          cargo: 'Diseño web',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
-          cargo: 'Desarrollador Fullstack-2023',
+          cargo: 'Desarrollo Fullstack',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
-          nombre: '',
-          cargo: 'Animación y Producción audiovisual',
+          nombre: 'Adriana Marcela Suarez Eljure',
+          cargo: 'Ilustración',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
-          nombre: '',
-          cargo: 'Animación y Producción audiovisual',
-          centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
-        },
-        {
-          nombre: '',
+          nombre: 'Lady Adriana Ariza Luque',
           cargo: 'Animación y Producción audiovisual',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
@@ -484,20 +490,21 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo:
+            'Validación de recursos educativos digitales y vinculación LMS',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
-          nombre: '',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Leyson Fabián Castaño Pérez',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },

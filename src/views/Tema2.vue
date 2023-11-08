@@ -542,10 +542,9 @@
     p(data-aos="zoom-in") Durante el último año se han incrementado las transacciones electrónicas, permitiendo la consolidación de internet como canal comercial y los usuarios están teniendo más confianza para realizar pagos en línea.
     p.mt-4(data-aos="zoom-in") Para una empresa del sector turístico que venda en línea sus productos y/o servicios, es clave ofrecerles a sus clientes la mayor flexibilidad, comodidad y confianza a la hora de realizar el pago, entre más opciones disponga, mejor. Estas formas de pago pueden estar agrupadas en dos:
 
-    p.mt-4(data-aos="zoom-in") ❖	Métodos fuera de línea.
-    p.mt-2(data-aos="zoom-in") ❖	Métodos en línea.
+    p.mt-5.fw-bold(data-aos="zoom-in") Métodos fuera de línea
 
-    p.mt-4(data-aos="fade-right") En estos métodos el pago no se efectúa durante la compra; se realiza después o de forma diferida. Dentro de esta clasificación están los siguientes medios de pago:
+    p.mt-3(data-aos="fade-right") En estos métodos el pago no se efectúa durante la compra; se realiza después o de forma diferida. Dentro de esta clasificación están los siguientes medios de pago:
 
     .row.mt-5
       .col-md-6.mb-4.mb-md-0 
@@ -557,6 +556,20 @@
       .col-md-6
         figure
           img(src="@/assets/curso/tema2/42.png" data-aos="zoom-in-left" alt="Imagen decorativa")
+
+    p.mt-5.fw-bold(data-aos="zoom-in") Métodos en línea
+
+    p.mt-3(data-aos="fade-right") En estos métodos el pago se realiza en el mismo momento de la compra mediante conexión directa a por medio de una pasarela de pago o similar. Dentro de esta clasificación figuran los siguientes medios de pago:
+
+    TabsA.color-acento-botones.mt-4
+      .tarjeta.color-acento-botones.p-4(titulo="Pasarelas de pago" style="background-color:#FFF3E0;")
+        p(style="color:#12263F;") Es una plataforma que le permite a los usuarios de la tienda en línea, realizar el pago de los productos o servicios de forma segura, funciona como un enlace entre el sitio web y los diferentes medios de pago existentes, cada pasarela maneja varios medios de pago. Los datos financieros de los clientes son tratados con altos estándares de seguridad y una vez el pago está confirmado, llega una notificación para procesar la solicitud.
+      .tarjeta.color-acento-botones.p-4(titulo="Tarjeta de crédito/débito <br> (TPV virtual)" style="background-color:#FFF3E0;")
+        p(style="color:#12263F;") Es el medio de pago electrónico más utilizado y aceptado debido al uso generalizado de las tarjetas. El pago se realiza mediante conexión directa con la pasarela de pago de una entidad bancaria.
+      .tarjeta.color-acento-botones.p-4(titulo="Monedas virtuales" style="background-color:#FFF3E0;")
+        p(style="color:#12263F;") Las monedas virtuales fueron diseñadas como medio de intercambio y están siendo utilizadas para comprar productos y/o servicios de forma digital. La revolución que causó la aparición de las monedas virtuales es muy fuerte, el bitcoin es la más reconocida, pero existen otras como por ejemplo Ethereum, Tether, Dogecoin, Litecoin, Dash, entre otras. El blockchain es la tecnología que le da soporte al bitcoin y esta revolución en el sistema económico, poco a poco se va convirtiendo en un medio de pago.
+      .tarjeta.color-acento-botones.p-4(titulo="Apps de pago" style="background-color:#FFF3E0;")
+        p(style="color:#12263F;") Son aplicaciones que se descargan en el teléfono celular para poder realizar transacciones comerciales. Permiten enviar y solicitar dinero y pagar compras en comercios físicos y en línea. Se puede realizar el pago por medio de una billetera electrónica, en donde el usuario acerca su teléfono al lector y automáticamente se abre la app para que escoja la tarjeta para que se realice el débito del valor a pagar y la operación se valida con un código o con la huella dactilar. O mediante un código QR que proporciona el comercio electrónico, el cliente escanea el código y toda la información para el pago aparece en la pantalla del teléfono, el cliente valida la información y luego pasa a una pasarela para conectar con el banco.
     
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FCC52E;border-radius:15px;")

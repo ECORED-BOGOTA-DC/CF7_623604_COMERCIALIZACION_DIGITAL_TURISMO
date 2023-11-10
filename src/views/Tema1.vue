@@ -12,9 +12,9 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El uso de internet y de las redes sociales se ha acelerado durante los últimos años. La gran mayoría de las personas ha realizado alguna compra de productos o servicios por medios electrónicos; comprado regalos, medicamentos, ropa, pasajes, reservas en hoteles, electrodomésticos, etc. La lista es interminable y los motivos por los que lo se hace por medios electrónicos también. Desde el punto de vista de las organizaciones, el comercio electrónico ofrece una nueva forma para organizar sus actividades y hacer negocios; tener presencia en medios digitales es una ventaja para las empresas de todos los sectores económicos que les permite llegar a un mercado en crecimiento y alcanzar a una comunidad a la que difícilmente podrían llegar con un local físico.
+        p.mb-0 El uso de Internet y de las redes sociales se ha acelerado durante los últimos años. La gran mayoría de las personas ha realizado alguna compra de productos o servicios por medios electrónicos; comprando regalos, medicamentos, ropa, pasajes, reservas en hoteles, electrodomésticos, etc. La lista es interminable y los motivos por los que lo se hace por medios electrónicos también. Desde el punto de vista de las organizaciones, el comercio electrónico ofrece una nueva forma para organizar sus actividades y hacer negocios; tener presencia en medios digitales es una ventaja para las empresas de todos los sectores económicos que les permite llegar a un mercado en crecimiento y alcanzar a una comunidad a la que difícilmente podrían llegar con un local físico.
     
-    p.mt-5(data-aos="zoom-in") En la actualidad se ha identificado la importancia que ha tomado el comercio electrónico, cada día más gente ha optado por esta forma de comprar y, más empresas lo utilizan como estrategia de comercialización. El desarrollo de las TIC ha facilitado nuevas formas de concebir los negocios, empresas que no cuentan con el capital suficiente para invertir en un sitio físico han encontrado un espacio para poder promocionar y comercializar sus productos y/o servicios, obteniendo muy buenos resultados y hasta el negocio más pequeño ha encontrado una ventaja al tener presencia en internet.	
+    p.mt-5(data-aos="zoom-in") En la actualidad se ha identificado la importancia que ha tomado el comercio electrónico, cada día más gente ha optado por esta forma de comprar y, más empresas lo utilizan como estrategia de comercialización. El desarrollo de las TIC ha facilitado nuevas formas de concebir los negocios, empresas que no cuentan con el capital suficiente para invertir en un sitio físico han encontrado un espacio para poder promocionar y comercializar sus productos y/o servicios, obteniendo muy buenos resultados y hasta el negocio más pequeño ha encontrado una ventaja al tener presencia en Internet.	
 
     p.mt-4(data-aos="zoom-in") Este crecimiento del comercio electrónico se podrá conocer en el siguiente recurso: 
 
@@ -51,7 +51,7 @@
             figure
               img(src='@/assets/curso/tema1/15.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
-            p En 1981, se realiza la primera venta por internet. La empresa Thompsons Holidays interconectó a sus agentes de viajes para que tuvieran acceso al catálogo y ofrecieran a sus clientes los servicios disponibles.
+            p En 1981, se realiza la primera venta por Internet. La empresa Thompsons Holidays interconectó a sus agentes de viajes para que tuvieran acceso al catálogo y ofrecieran a sus clientes los servicios disponibles.
         .row(titulo="1983")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
@@ -63,7 +63,7 @@
             figure
               img(src='@/assets/curso/tema1/17.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
-            p A partir del año 1991 la NSF (National Science Foundation) permite el uso de internet con fines comerciales. Es durante esta década cuando empiezan a surgir importantes portales de venta online tales como Amazon o Ebay. Adicionalmente, Netscape desarrollaría el protocolo SSL, implicando ello un gran avance en términos de seguridad a la hora de compartir datos e información personal.
+            p A partir del año 1991 la NSF (National Science Foundation) permite el uso de Internet con fines comerciales. Es durante esta década cuando empiezan a surgir importantes portales de venta #[em online] tales como Amazon o Ebay. Adicionalmente, Netscape desarrollaría el protocolo SSL, implicando ello un gran avance en términos de seguridad a la hora de compartir datos e información personal.
         .row(titulo="1995")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
@@ -75,7 +75,7 @@
             figure
               img(src='@/assets/curso/tema1/19.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
-            p Es recién a fines del siglo XX cuando se puede hablar del inicio del comercio electrónico, cuando las primeras empresas introdujeron un nuevo canal de ventas basado en internet, y donde nuevas empresas surgen como un modelo alternativo de negocios, siendo no las primeras pero sí las más exitosas hasta ahora Amazon.com, eBay, y otras.
+            p Es recién a fines del siglo XX cuando se puede hablar del inicio del comercio electrónico, cuando las primeras empresas introdujeron un nuevo canal de ventas basado en Internet, y donde nuevas empresas surgen como un modelo alternativo de negocios, siendo no las primeras pero sí las más exitosas hasta ahora Amazon.com, eBay, y otras.
             p.mt-4 En 1997, Coca-Cola desarrolla la posibilidad de comprar productos por medio de móviles y SMS.
         .row(titulo="1998")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
@@ -88,7 +88,7 @@
             figure
               img(src='@/assets/curso/tema1/21.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
-            p El impulso a este nuevo modelo de negocios se vio bruscamente frenado por los eventos financieros ocurridos a finales del año 2000. El problema fue una corriente especulativa muy fuerte que se dio entre 1997 y 2001, en la cual las bolsas de valores de naciones occidentales vieron un rápido aumento de su valor debido al avance de las empresas vinculadas al nuevo sector de internet y a la llamada Nueva Economía.
+            p El impulso a este nuevo modelo de negocios se vio bruscamente frenado por los eventos financieros ocurridos a finales del año 2000. El problema fue una corriente especulativa muy fuerte que se dio entre 1997 y 2001, en la cual las bolsas de valores de naciones occidentales vieron un rápido aumento de su valor debido al avance de las empresas vinculadas al nuevo sector de Internet y a la llamada Nueva Economía.
     
     p.mt-5(data-aos="zoom-in") Con el inicio del siglo XXI, llegaron nuevas tendencias que se convirtieron en herramientas para fortalecer el desarrollo del comercio electrónico. La aparición de las redes sociales, iTunes y el desarrollo de dispositivos iPhone y Android, han cambiado la forma de comunicarnos, entretenernos y simplificado la forma de comprar y hacer negocios. 
     p.mt-4(data-aos="zoom-in") Actualmente la gran mayoría de las tiendas físicas tienen una versión en línea, incluso algunas solo tienen presencia en línea, permitiéndonos poder comprar todo tipo de productos con tan solo un par de clics.
@@ -100,7 +100,7 @@
         .text-end(style="align-self:end;")
           i.fas.fa-quote-right(style="color:#3BC192;font-size:28px;")
     
-    p.mt-5(data-aos="zoom-in") Con la actual infraestructura que ofrece internet, en donde se pueden interconectar una gran variedad de herramientas (páginas web, redes sociales, emails, chats, servicios de audio y videoconferencia, grupos de noticias e información, transferencia de archivos, etc.), las organizaciones del sector turístico tienen una gran variedad de medios para conectar con clientes y realizar transacciones. 
+    p.mt-5(data-aos="zoom-in") Con la actual infraestructura que ofrece Internet, en donde se pueden interconectar una gran variedad de herramientas (páginas web, redes sociales, #[em emails], chats, servicios de audio y videoconferencia, grupos de noticias e información, transferencia de archivos, etc.), las organizaciones del sector turístico tienen una gran variedad de medios para conectar con clientes y realizar transacciones. 
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FCC52E;border-radius:15px;")
@@ -151,7 +151,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/6.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-lg-5.text-center(style="background-color:#FEBBAC;")
               h5 Estándares
-              p Los estándares de internet son mundiales, por lo que ello disminuye los costos de entrada de las empresas en el mercado, así como el esfuerzo de búsqueda por parte de los consumidores.
+              p Los estándares de Internet son mundiales, por lo que ello disminuye los costos de entrada de las empresas en el mercado, así como el esfuerzo de búsqueda por parte de los consumidores.
       .col-xl-3.mb-4.mb-xl-0.col-md-6
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
@@ -194,7 +194,7 @@
     .titulo-segundo
       h2#t_1_2 1.2 Ventajas y desventajas
     
-    p(data-aos="zoom-in") El comercio electrónico ofrece a las empresas del sector turístico la posibilidad de llegar a un gran mercado utilizando un dispositivo que permite conexión a internet. Claro que esta posibilidad implica una variedad de ventajas y desventajas que se deben tener en cuenta.
+    p(data-aos="zoom-in") El comercio electrónico ofrece a las empresas del sector turístico la posibilidad de llegar a un gran mercado utilizando un dispositivo que permite conexión a Internet. Claro que esta posibilidad implica una variedad de ventajas y desventajas que se deben tener en cuenta.
     p.mt-4(data-aos="zoom-in") Dentro de las principales ventajas, se pueden resaltar:
 
     AcordionA.mt-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
@@ -205,11 +205,11 @@
       .row(titulo="Inventario automatizado")
         p Esto permite ahorrar costos de mano de obra, ya que estará todo digitalizado.
       .row(titulo="Ubicación")
-        p En internet no existen fronteras, por eso no importa desde cuál punto estemos ofreciendo las experiencias turísticas.
+        p En Internet no existen fronteras, por eso no importa desde cuál punto estemos ofreciendo las experiencias turísticas.
       .row(titulo="Portafolio de productos")
         p En el comercio electrónico podemos ordenar los productos y servicios en diferentes categorías, con la opción de realizar una búsqueda.
       .row(titulo="Ahorro de tiempo")
-        p Comprar en línea, permite ganar tiempo ya que no tenemos que desplazarnos hasta un lugar físico.
+        p Comprar en línea, permite ganar tiempo, ya que no tenemos que desplazarnos hasta un lugar físico.
       .row(titulo="Mejor información al consumidor")
         p En el sitio web, el cliente tiene la descripción del producto y/o servicio acompañado, videos, reseñas y opiniones realizadas por otros compradores.
  
@@ -217,21 +217,21 @@
 
     TabsA.color-acento-botones.mt-5
       .tarjeta.color-acento-botones.p-4(titulo="Competencia" style="background-color:#FFF3E0;")
-        p(style="color:#12263F;") #[strong(style="color:#12263F;") Competencia:] internet permite poder contactar clientes de cualquier parte del mundo, por lo que hay mucha competencia.
+        p(style="color:#12263F;") Internet permite poder contactar clientes de cualquier parte del mundo, por lo que hay mucha competencia.
       .tarjeta.color-acento-botones.p-4(titulo="Desconfianza" style="background-color:#FFF3E0;")
-        p(style="color:#12263F;") #[strong(style="color:#12263F;") Desconfianza de los pagos en línea:] hay personas que desconfían a la hora de suministrar los datos de su tarjeta bancaria para realizar las compras o reservas en línea.
-      .tarjeta.color-acento-botones.p-4(titulo="Probar el producto antes de la compra" style="background-color:#FFF3E0;")
-        p(style="color:#12263F;") #[strong(style="color:#12263F;") Probar el producto antes de la compra:] algunos clientes prefieren ver o probar el producto antes de comprarlo. Lo que es imposible por internet.
+        p(style="color:#12263F;") Hay personas que desconfían a la hora de suministrar los datos de su tarjeta bancaria para realizar las compras o reservas en línea.
+      .tarjeta.color-acento-botones.p-4(titulo="Probar el producto <br> antes de la compra" style="background-color:#FFF3E0;")
+        p(style="color:#12263F;") Algunos clientes prefieren ver o probar el producto antes de comprarlo. Lo que es imposible por Internet.
       .tarjeta.color-acento-botones.p-4(titulo="Comparar precios" style="background-color:#FFF3E0;")
-        p(style="color:#12263F;") #[strong(style="color:#12263F;") Comparar precios:] en la red existen muchos comparadores y con una buena búsqueda se podría encontrar la experiencia turística deseada a un menor precio. 
+        p(style="color:#12263F;") En la red existen muchos comparadores y con una buena búsqueda se podría encontrar la experiencia turística deseada a un menor precio. 
       .tarjeta.color-acento-botones.p-4(titulo="Entrega del producto" style="background-color:#FFF3E0;")
-        p(style="color:#12263F;") #[strong(style="color:#12263F;") Entrega del producto:] cuando se contrata una empresa de mensajería externa, los problemas que se puedan presentar en las entregas (demora, pérdida o daños) son, en su mayoría, asumidos por la empresa que vende el producto
+        p(style="color:#12263F;") Cuando se contrata una empresa de mensajería externa, los problemas que se puedan presentar en las entregas (demora, pérdida o daños) son, en su mayoría, asumidos por la empresa que vende el producto
       .tarjeta.color-acento-botones.p-4(titulo="Fallas técnicas" style="background-color:#FFF3E0;")
-        p(style="color:#12263F;") #[strong(style="color:#12263F;") Fallas técnicas:] el sitio web puede fallar, colapsar o puede ser atacado. Esto puede provocar la pérdida de clientes.
-      .tarjeta.color-acento-botones.p-4(titulo="Disponer de un dispositivo electrónico" style="background-color:#FFF3E0;")
-        p(style="color:#12263F;") #[strong(style="color:#12263F;") Disponer de un dispositivo electrónico:] si los clientes no tienen acceso a un dispositivo con conexión a internet, no podrán comprar en un sitio web.
+        p(style="color:#12263F;") El sitio web puede fallar, colapsar o puede ser atacado. Esto puede provocar la pérdida de clientes.
+      .tarjeta.color-acento-botones.p-4(titulo="Disponer de un <br> dispositivo electrónico" style="background-color:#FFF3E0;")
+        p(style="color:#12263F;") Si los clientes no tienen acceso a un dispositivo con conexión a Internet, no podrán comprar en un sitio web.
       .tarjeta.color-acento-botones.p-4(titulo="Servicio posventa" style="background-color:#FFF3E0;")
-        p(style="color:#12263F;") #[strong(style="color:#12263F;") Servicio posventa:] si el servicio posventa no es de calidad ni rápido y efectivo, puede ocasionar una experiencia negativa en los clientes.
+        p(style="color:#12263F;") Si el servicio posventa no es de calidad ni rápido y efectivo, puede ocasionar una experiencia negativa en los clientes.
 
 
 

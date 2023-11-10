@@ -87,7 +87,10 @@
     
     p(data-aos="zoom-in") Muchas empresas, #[em marketers] y estrategas digitales han comprobado el poder que tiene la generación de contenidos para seducir a las audiencias. Por esta razón es necesario conocer las fases de viaje del consumidor, o el modelo de secuencia de compra, y es por esto que se han establecido unos objetivos que permiten lograr alcanzar el éxito a nivel de #[em social media marketing], estos objetivos son:
 
-    .col-xl-6.col-lg-8.m-auto.mt-5
+    .titulo-sexto.color-acento-contenido.mt-5
+      h5 Figura 5. 
+      span Objetivos de #[em social media marketing]
+    .col-xl-6.col-lg-8.m-auto.mt-4
       figure
         img(src="@/assets/curso/tema4/2.svg" data-aos="zoom-in-up" alt="Imagen que muestra los objetivos social media marketing, loa cuales son: entretener, inspirar, educar y convencer")
     

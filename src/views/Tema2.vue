@@ -16,7 +16,7 @@
     
     p.mt-5(data-aos="zoom-in") Internet les permite reunir la oferta mundial de viajes en un solo lugar para que los turistas reserven sus propios viajes online. Son una herramienta de autoservicio que ha cambiado la manera en que se buscan y reservan los viajes, porque en vez de tener que recurrir a una agencia en físico, los viajeros tienen mayor facilidad para planear y reservar vuelos, alojamiento y visitas guiadas por su cuenta.
     p.mt-4(data-aos="zoom-in") La mayoría de las OTA actúan como una red social donde los turistas aportan experiencias de viajes, imágenes y opiniones de lo que vivieron. 
-    p.mt-4(data-aos="zoom-in") El proceso de compra en este tipo de sitios ocurre la mayoría de las veces mediante el canal de reservas por internet; es el mismo usuario el que busca la mejor opción al precio que más le convenga. Las principales OTA son:
+    p.mt-4(data-aos="zoom-in") El proceso de compra en este tipo de sitios ocurre la mayoría de las veces mediante el canal de reservas por Internet; es el mismo usuario el que busca la mejor opción al precio que más le convenga. Las principales OTA son:
 
     .col-xl-10.m-auto.mt-5
       .titulo-sexto.color-acento-contenido
@@ -73,7 +73,7 @@
               figure
                 img(src='@/assets/curso/tema2/9.svg' alt="Logo comercial que representa a iFood.")
             .col-md-6.col-lg-8
-              p.text-white Creada en el año 2011 en Brasil llegó a Colombia a principios del año 2018 y tiene servicio en 7 ciudades principales como Bogotá, Cali, Medellín, Bucaramanga, Cartagena Barranquilla, Manizales, Santa Marta Pereira, entre otras. Actualmente está prestando sus servicios en países de América Latina, como Argentina y México.
+              p.text-white Creada en el año 2011 en Brasil llegó a Colombia a principios del año 2018 y tiene servicio en 7 ciudades principales como Bogotá, Cali, Medellín, Bucaramanga, Cartagena Barranquilla, Manizales, Santa Marta, Pereira, entre otras. Actualmente, está prestando sus servicios en países de América Latina, como Argentina y México.
               p.mt-4.text-white Cuenta con más de 4.000 establecimientos en Colombia en su plataforma digital. #[br] El objetivo de esta aplicación es brindar oportunidades a los negocios que no cuentan con una gran infraestructura para revolucionar la gastronomía a través de un canal comercial diferente a la venta presencial.
       .col-lg-3.mb-4.col-md-6
         a.indicador__container(@click="modal3 = true")
@@ -104,6 +104,10 @@
         img(src="@/assets/curso/tema2/12.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
     
     p.mt-5(data-aos="zoom-in") Además, se dispone de varias plataformas digitales para llevar a cabo eventos virtuales, tal como se ha revisado durante este mismo programa anteriormente; las principales son:
+
+    .titulo-sexto.color-acento-contenido.mt-5
+      h5 Figura 2.
+      span Principales plataformas para desarrollar eventos virtuales
 
     .row.mt-5
       .col-md-6.mb-4.mb-md-0
@@ -138,7 +142,7 @@
     .titulo-segundo
       h2#t_2_1 2.1  Generalidades de redes sociales
     
-    p(data-aos="zoom-in") Una red social es una estructura en donde interactúan diferentes actores que se relacionan de acuerdo con algún objetivo común (relación profesional, amistad, negocios, parentesco, etc.), En internet las redes sociales son sitios diseñados para favorecer la interrelación de sus miembros, que tienen intereses o actividades comunes y el intercambio de información.
+    p(data-aos="zoom-in") Una red social es una estructura en donde interactúan diferentes actores que se relacionan de acuerdo con algún objetivo común (relación profesional, amistad, negocios, parentesco, etc.), En Internet las redes sociales son sitios diseñados para favorecer la interrelación de sus miembros, que tienen intereses o actividades comunes y el intercambio de información.
 
     .col-xl-10.m-auto.mt-5
       .row(style="background-color:#D4EAFE;" data-aos="flip-up")
@@ -182,7 +186,7 @@
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/tema2/20.svg' data-aos="zoom-in-up" alt="Imagen decorativa")
-        div(x="9.5%" y="70%" tooltip="Redes sociales masivas" numero="1")
+        div(x="9.5%" y="70%" tooltip="Ver más" numero="+")
           .row
             .col-lg-4.col-md-6.mb-4.mb-md-0
               figure
@@ -190,7 +194,7 @@
             .col-lg-8.col-md-6
               h5(style="color:#12263F !important;") Redes sociales masivas
               p(style="color:#12263F !important;") Dirigidas al público masivo en general, no se centran en un tema específico. Son las más comunes entre la población. Su principal función es la de establecer relaciones entre sus miembros, que pueden o no conocerse previamente. Las más comunes son Facebook o Twitter.
-        div(x="25.5%" y="70%" tooltip="Redes sociales profesionales" numero="2")
+        div(x="25.5%" y="70%" tooltip="Ver más" numero="+")
           .row
             .col-lg-4.col-md-6.mb-4.mb-md-0
               figure
@@ -198,7 +202,7 @@
             .col-lg-8.col-md-6
               h5(style="color:#12263F !important;") Redes sociales profesionales
               p(style="color:#12263F !important;") Se estructuran a través de contenidos orientados a temas laborales o empresariales, son útiles para desarrollar relaciones, recomendaciones y búsqueda de oportunidades laborales o de negocios. Algunas de las más conocidas son LinkedIn o Xing.
-        div(x="41.5%" y="70%" tooltip="Redes sociales de nicho o temáticas" numero="3")
+        div(x="41.5%" y="70%" tooltip="Ver más" numero="+")
           .row
             .col-lg-4.col-md-6.mb-4.mb-md-0
               figure
@@ -206,7 +210,7 @@
             .col-lg-8.col-md-6
               h5(style="color:#12263F !important;") Redes sociales de nicho o temáticas
               p(style="color:#12263F !important;") Se basan en un tema concreto y establecen relaciones entre usuarios interesados en él. Algunos ejemplos son Flickr, Dribble o Tripwolf.
-        div(x="57.5%" y="70%" tooltip="Redes sociales de geolocalización" numero="4")
+        div(x="57.5%" y="70%" tooltip="Ver más" numero="+")
           .row
             .col-lg-4.col-md-6.mb-4.mb-md-0
               figure
@@ -214,7 +218,7 @@
             .col-lg-8.col-md-6
               h5(style="color:#12263F !important;") Redes sociales de geolocalización
               p(style="color:#12263F !important;") Llevan a socializar por medio de la localización física de los usuarios. Algunas de las más conocidas son Waze o Foursquare.
-        div(x="73%" y="70%" tooltip="Redes sociales de contenidos" numero="5")
+        div(x="73%" y="70%" tooltip="Ver más" numero="+")
           .row
             .col-lg-4.col-md-6.mb-4.mb-md-0
               figure
@@ -222,7 +226,7 @@
             .col-lg-8.col-md-6
               h5(style="color:#12263F !important;") Redes sociales de contenidos
               p(style="color:#12263F !important;") En esta categoría los elementos principales para los usuarios son la generación de contenidos y formatos para compartir. Las más importantes son YouTube, Instagram, Vimeo, Pinterest.
-        div(x="90%" y="70%" tooltip="Redes sociales de entretenimiento y ocio" numero="6")
+        div(x="90%" y="70%" tooltip="Ver más" numero="+")
           .row
             .col-lg-4.col-md-6.mb-4.mb-md-0
               figure
@@ -303,7 +307,7 @@
             td.p-4 La prioridad es hacer y mantener muchos amigos. Utilizan las redes sociales para hablar con sus amigos, pero no con colegas de trabajo. Están interesados en las ofertas y prefieren recibirlas por #[em e-mail]. 
           tr
             td.fw-bold.p-4 Los negocios primero
-            td.p-4 Están en internet para hacer negocios, buscando las últimas tendencias y abriendo oportunidades de trabajo. Usan #[em e-mail] frecuentemente, es fácil captarlos como fan o seguidores mediante la promesa de actualizaciones de producto o de información educativa.
+            td.p-4 Están en Internet para hacer negocios, buscando las últimas tendencias y abriendo oportunidades de trabajo. Usan #[em e-mail] frecuentemente, es fácil captarlos como fan o seguidores mediante la promesa de actualizaciones de producto o de información educativa.
           tr
             td.fw-bold.p-4 Amplificadores
             td.p-4 Quieren conectarse, educarse y compartir recursos e información con otros, se toman sus interacciones sociales muy en serio.
@@ -324,7 +328,7 @@
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/tema2/29.svg' data-aos="zoom-in-up" alt="Imagen de tres personas frente a un celular, dos de las personas se encuentran  escogiendo productos y la otra persona va con un carro de compras. En dicha imagen se identifica el diseño, usabilidad y accesibilidad, los cuales se describen en la parte inferior.")
-        div(x="44%" y="32%" tooltip="Diseño" numero="1")
+        div(x="44%" y="32%" tooltip="Ver más" numero="1")
           .row
             .col-lg-8.col-md-6.mb-md-0.mb-4
               p.fw-bold 1. Diseño
@@ -336,7 +340,7 @@
             .col-lg-4.col-md-6
               figure
                 img(src="@/assets/curso/tema2/30.png" alt="Imagen decorativa")
-        div(x="62%" y="39%" tooltip="Usabilidad" numero="2")
+        div(x="62%" y="39%" tooltip="Ver más" numero="2")
           .row
             .col-lg-8.col-md-6.mb-md-0.mb-4
               p.fw-bold 2. Usabilidad
@@ -350,7 +354,7 @@
             .col-lg-4.col-md-6
               figure
                 img(src="@/assets/curso/tema2/31.png" alt="Imagen decorativa")
-        div(x="57%" y="80%" tooltip="Accesibilidad" numero="3")
+        div(x="57%" y="80%" tooltip="Ver más" numero="3")
           .row
             .col-lg-8.col-md-6.mb-md-0.mb-4
               p.fw-bold 3. Accesibilidad
@@ -376,7 +380,7 @@
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0
             h5.fw-bold Elegir una buena empresa de #[em hosting]. 
-            p.mt-4 El #[em hosting] es un servicio en línea que permite publicar un sitio o aplicación #[em web] en internet. Cuando se realiza el registro en un servicio de #[em hosting], lo que se hace es alquilar un espacio en un servidor en el que se pueden almacenar todos los archivos y datos necesarios para que el sitio #[em web] funcione correctamente.
+            p.mt-4 El #[em hosting] es un servicio en línea que permite publicar un sitio o aplicación #[em web] en Internet. Cuando se realiza el registro en un servicio de #[em hosting], lo que se hace es alquilar un espacio en un servidor en el que se pueden almacenar todos los archivos y datos necesarios para que el sitio #[em web] funcione correctamente.
             p.mt-3 El proveedor de #[em hosting] es responsable de mantener el servidor en funcionamiento, protegerlo de ataques maliciosos y transferir el contenido (imágenes, textos, archivos, etc.) desde el servidor a los navegadores de los visitantes.
           .col-md-6.col-lg-8
             figure
@@ -539,7 +543,7 @@
     .titulo-segundo
       h2#t_2_4 2.4  El pago en comercio electrónico
     
-    p(data-aos="zoom-in") Durante el último año se han incrementado las transacciones electrónicas, permitiendo la consolidación de internet como canal comercial y los usuarios están teniendo más confianza para realizar pagos en línea.
+    p(data-aos="zoom-in") Durante el último año se han incrementado las transacciones electrónicas, permitiendo la consolidación de Internet como canal comercial y los usuarios están teniendo más confianza para realizar pagos en línea.
     p.mt-4(data-aos="zoom-in") Para una empresa del sector turístico que venda en línea sus productos y/o servicios, es clave ofrecerles a sus clientes la mayor flexibilidad, comodidad y confianza a la hora de realizar el pago, entre más opciones disponga, mejor. Estas formas de pago pueden estar agrupadas en dos:
 
     p.mt-5.fw-bold(data-aos="zoom-in") Métodos fuera de línea
@@ -567,7 +571,7 @@
       .tarjeta.color-acento-botones.p-4(titulo="Tarjeta de crédito/débito <br> (TPV virtual)" style="background-color:#FFF3E0;")
         p(style="color:#12263F;") Es el medio de pago electrónico más utilizado y aceptado debido al uso generalizado de las tarjetas. El pago se realiza mediante conexión directa con la pasarela de pago de una entidad bancaria.
       .tarjeta.color-acento-botones.p-4(titulo="Monedas virtuales" style="background-color:#FFF3E0;")
-        p(style="color:#12263F;") Las monedas virtuales fueron diseñadas como medio de intercambio y están siendo utilizadas para comprar productos y/o servicios de forma digital. La revolución que causó la aparición de las monedas virtuales es muy fuerte, el bitcoin es la más reconocida, pero existen otras como por ejemplo Ethereum, Tether, Dogecoin, Litecoin, Dash, entre otras. El blockchain es la tecnología que le da soporte al bitcoin y esta revolución en el sistema económico, poco a poco se va convirtiendo en un medio de pago.
+        p(style="color:#12263F;") Las monedas virtuales fueron diseñadas como medio de intercambio y están siendo utilizadas para comprar productos y/o servicios de forma digital. La revolución que causó la aparición de las monedas virtuales es muy fuerte, el #[em(style="color:#12263F;") bitcoin] es la más reconocida, pero existen otras como por ejemplo Ethereum, Tether, Dogecoin, Litecoin, Dash, entre otras. El #[em(style="color:#12263F;") blockchain] es la tecnología que le da soporte al #[em(style="color:#12263F;") bitcoin] y esta revolución en el sistema económico, poco a poco se va convirtiendo en un medio de pago.
       .tarjeta.color-acento-botones.p-4(titulo="Apps de pago" style="background-color:#FFF3E0;")
         p(style="color:#12263F;") Son aplicaciones que se descargan en el teléfono celular para poder realizar transacciones comerciales. Permiten enviar y solicitar dinero y pagar compras en comercios físicos y en línea. Se puede realizar el pago por medio de una billetera electrónica, en donde el usuario acerca su teléfono al lector y automáticamente se abre la app para que escoja la tarjeta para que se realice el débito del valor a pagar y la operación se valida con un código o con la huella dactilar. O mediante un código QR que proporciona el comercio electrónico, el cliente escanea el código y toda la información para el pago aparece en la pantalla del teléfono, el cliente valida la información y luego pasa a una pasarela para conectar con el banco.
     
@@ -638,7 +642,7 @@
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/tema2/47.png' data-aos="zoom-in-up" alt="Imagen decorativa")
-        div(x="9.5%" y="72%" tooltip="Aprovisionamiento" numero="")
+        div(x="9.5%" y="72%" tooltip="Ver más" numero="")
           .row
             .col-md-6.mb-4.mb-md-0
               h5(style="color:#12263F !important;") 1. Aprovisionamiento
@@ -646,7 +650,7 @@
             .col-md-6
               figure
                 img(src="@/assets/curso/tema2/48.png" alt="Imagen decorativa")
-        div(x="25.5%" y="41.5%" tooltip="Almacenaje" numero="")
+        div(x="25.5%" y="41.5%" tooltip="Ver más" numero="")
           .row
             .col-md-6.mb-4.mb-md-0
               h5(style="color:#12263F !important;") 2. Almacenamiento
@@ -654,7 +658,7 @@
             .col-md-6
               figure
                 img(src="@/assets/curso/tema2/49.png" alt="Imagen decorativa")
-        div(x="51.4%" y="54%" tooltip="Logística de envío" numero="")
+        div(x="51.4%" y="54%" tooltip="Ver más" numero="")
           .row
             .col-md-6.mb-4.mb-md-0
               h5(style="color:#12263F !important;") 3. Logística de envío
@@ -662,7 +666,7 @@
             .col-md-6
               figure
                 img(src="@/assets/curso/tema2/50.png" alt="Imagen decorativa")
-        div(x="59%" y="92.2%" tooltip="Logística de envío" numero="")
+        div(x="59%" y="92.2%" tooltip="Ver más" numero="")
           .row
             .col-md-6.mb-4.mb-md-0
               h5(style="color:#12263F !important;") 4. Logística inversa
@@ -700,8 +704,7 @@
           figure
             img(src="@/assets/curso/tema2/54.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
         .tarjeta.color-acento-botones.p-4(x="14%" y="15%" numero="+" style="background-color:#F4E8CD;")
-          p.mb-0.fw-bold Ventajas del #[em dropshipping]:
-          ul.lista-ul.mt-3.mb-0
+          ul.lista-ul.mb-0
             li.mb-1.d-flex
               i.lista-ul__vineta
               | La inversión inicial necesaria es mínima.
@@ -718,8 +721,7 @@
               i.lista-ul__vineta
               | El proceso logístico es responsabilidad del mayorista.
         .tarjeta.color-acento-botones.p-4(x="86%" y="15%" numero="+" style="background-color:#F4E8CD;")
-          p.mb-0.fw-bold Desventajas del #[em dropshipping]:
-          ul.lista-ul.mt-3.mb-0
+          ul.lista-ul.mb-0
             li.mb-1.d-flex
               i.lista-ul__vineta
               | El precio de los productos puede ser más elevado, debido a los costos asociados al proceso de distribución.

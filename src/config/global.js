@@ -333,12 +333,12 @@ export default {
     {
       termino: '<em>Hosting</em>',
       significado:
-        'servicio en línea que permite publicar un sitio o aplicación web en internet. Cuando se realiza el registro en un servicio de <em>hosting</em>, lo que se hace es alquilar un espacio en un servidor en el que se pueden almacenar todos los archivos y datos necesarios para que el sitio web funcione correctamente.',
+        'servicio en línea que permite publicar un sitio o aplicación web en Internet. Cuando se realiza el registro en un servicio de <em>hosting</em>, lo que se hace es alquilar un espacio en un servidor en el que se pueden almacenar todos los archivos y datos necesarios para que el sitio web funcione correctamente.',
     },
     {
       termino: 'Red social',
       significado:
-        'estructura en donde interactúan diferentes actores que se relacionan de acuerdo a algún objetivo. En internet, las redes sociales son sitios diseñados para favorecer la interrelación de sus miembros, que tienen intereses o actividades comunes y el intercambio de información.',
+        'estructura en donde interactúan diferentes actores que se relacionan de acuerdo a algún objetivo. En Internet, las redes sociales son sitios diseñados para favorecer la interrelación de sus miembros, que tienen intereses o actividades comunes y el intercambio de información.',
     },
   ],
   referencias: [
@@ -387,12 +387,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizábal Gutiérrez',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
-          cargo: 'Responsable Línea de Producción Distrito Capital',
+          cargo: 'Responsable de línea de producción',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
@@ -404,12 +404,12 @@ export default {
         {
           nombre: 'Eddy Cárdenas',
           cargo: 'Experto temático',
-          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+          centro: 'Regional Quindío - Centro de comercio, industria y turismo',
         },
         {
           nombre: 'Luisa Fernanda Posada Hincapié',
           cargo: 'Experto temático',
-          centro: 'Regional Quindío. Centro de Comercio, Industria y Turismo',
+          centro: 'Regional Quindío - Centro de Comercio, Industria y Turismo',
         },
         {
           nombre: 'Fabio Alberto Ramírez Ayala',
@@ -425,22 +425,22 @@ export default {
           nombre: 'María Inés Machado López',
           cargo: 'Diseñador instruccional',
           centro:
-            'Regional Norte de Santander. Centro de la Industria, la Empresa y los Servicios',
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Asesora Metodológica',
-          centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
+          cargo: 'Asesora Metodológica y pedagógica',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable Equipo Desarrollo Curricular',
+          cargo: 'Responsable equipo de desarrollo curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'José Gabriel Ortiz Abella',
-          cargo: 'Corrector de estilo',
+          cargo: 'Corrección de estilo',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {

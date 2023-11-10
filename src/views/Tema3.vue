@@ -15,7 +15,7 @@
         p.mb-0 En el mercado existen más empresas que pueden llegar a ofrecer experiencias turísticas iguales o similares que las suyas, por eso es necesario desarrollar una estrategia que permita diferenciarse e incluso hacerse únicos para que los clientes nos elijan por encima de los competidores. Estas estrategias se construyen desde la planeación estratégica y debe ser única, potente para captar la atención del público objetivo y fácil de transmitir. Esto se conoce como la propuesta única de valor (USP: Unique Selling Proposition).
     
     p.mt-5(data-aos="zoom-in") Partiendo de la propuesta de valor, se debe dar a conocer la tienda #[em online] para que los clientes conozcan el tipo de experiencias turísticas que se ofrecen y finalicen las transacciones con el mayor gasto medio posible.
-    p.mt-4(data-aos="zoom-in") Si bien no existe la receta perfecta que asegure el éxito de ventas en línea, se puede partir de una fórmula que ayuda a comprender algunas de las acciones que contribuyen a incrementar las ventas en internet:
+    p.mt-4(data-aos="zoom-in") Si bien no existe la receta perfecta que asegure el éxito de ventas en línea, se puede partir de una fórmula que ayuda a comprender algunas de las acciones que contribuyen a incrementar las ventas en Internet:
 
     .mt-5.p-3.m-auto(style="max-width:fit-content;background-color:#B4E6FF;border-radius:20px;" data-aos="zoom-in")
       h4.text-center.mb-0.ps-md-4.pe-md-4.ps-lg-5.pe-lg-5 Venta = Visitas * Tasa conversión * Pedido medio
@@ -106,7 +106,7 @@
     .row.mt-5
       .col-md-6.mb-4.mb-md-0(style="place-self:center;")
         .cajon.color-primario.p-4(style="background-color:#FFF3D6;")
-          p.mb-0 Otro factor importante cuando hablamos de tráfico en el comercio electrónico, es el embudo de ventas (#[em funnel]). El embudo representa las diferentes fases del proceso comercial por el que transita un cliente potencial, hasta convertirse en un cliente fidelizado. Se necesita que los usuarios que navegan en internet visiten el sitio web de la empresa, permanezcan en la página y compren alguna de las experiencias turísticas, para esto se necesita desarrollar técnicas de promoción y ventas diferentes para cada fase. 
+          p.mb-0 Otro factor importante cuando hablamos de tráfico en el comercio electrónico, es el embudo de ventas (#[em funnel]). El embudo representa las diferentes fases del proceso comercial por el que transita un cliente potencial, hasta convertirse en un cliente fidelizado. Se necesita que los usuarios que navegan en Internet visiten el sitio web de la empresa, permanezcan en la página y compren alguna de las experiencias turísticas, para esto se necesita desarrollar técnicas de promoción y ventas diferentes para cada fase. 
       .col-md-6(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema3/5.svg" data-aos="zoom-in-left" alt="Imagen que muestra un grupo de personas en el borde cayendo hacia embudo dividido por categorías como atracción, interacción, conversión y al final en fidelización quedan algunas personas.")
@@ -116,7 +116,7 @@
     .titulo-segundo
       h2#t_3_1 3.1  Indicadores claves de rendimiento (KPI) aplicados al comercio electrónico
     
-    p(data-aos="zoom-in") La empresa turística debe medir y analizar la efectividad del sitio web y/o la tienda en línea, para esto debe definir una serie de métricas que reflejen de forma cuantitativa el rendimiento del negocio. Las mediciones en internet son un tema de constante revisión y básicamente se pueden realizar desde dos puntos de vista, sin embargo, el objetivo de estos enfoques es determinar la audiencia del sitio en internet, como se verá a continuación:
+    p(data-aos="zoom-in") La empresa turística debe medir y analizar la efectividad del sitio web y/o la tienda en línea, para esto debe definir una serie de métricas que reflejen de forma cuantitativa el rendimiento del negocio. Las mediciones en Internet son un tema de constante revisión y básicamente se pueden realizar desde dos puntos de vista, sin embargo, el objetivo de estos enfoques es determinar la audiencia del sitio en Internet, como se verá a continuación:
 
     .tarjeta.tarjeta_slyder2.tarjeta--azul.p-4.p-lg-5.pb-lg-4.mt-5
       SlyderA(tipo="b")
@@ -180,12 +180,12 @@
       h2#t_3_2 3.2  Principales métricas aplicadas al comercio exterior
     
     p(data-aos="zoom-in") Para realizar la medición del sitio web turístico, primero es necesario que estén definidos los estándares del sector sobre cómo realizar esas mediciones y cómo se reportan los datos de audiencia. Es por esto que se definen las métricas y las prácticas aceptables.
-    p.mt-4(data-aos="zoom-in") A continuación, se presentan las principales métricas que se utilizan en las mediciones de audiencias en sitios de internet y cómo se obtienen.
+    p.mt-4(data-aos="zoom-in") A continuación, se presentan las principales métricas que se utilizan en las mediciones de audiencias en sitios de Internet y cómo se obtienen.
 
     .row.mt-5
       .col-md-6.mb-4.mb-md-0 
         LineaTiempoD.color-acento-botones
-          p.text-small(numero="1" titulo="Visitas") Es la métrica más común para medir el tráfico de un sitio en internet.  Se refiere al número de visitantes únicos (usuario diferente) que recibe el sitio.
+          p.text-small(numero="1" titulo="Visitas") Es la métrica más común para medir el tráfico de un sitio en Internet.  Se refiere al número de visitantes únicos (usuario diferente) que recibe el sitio.
           p.text-small(numero="2" titulo="Páginas vistas") Total de visualizaciones de páginas registradas.
           p.text-small(numero="3" titulo="Duración de las visitas") Tiempo medio de las visitas realizadas.
           p.text-small(numero="4" titulo="Duración de las páginas vistas") Tiempo medio de las páginas realizadas.
@@ -220,15 +220,15 @@
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/tema3/12.svg' data-aos="zoom-in-up" alt="Imagen decorativa")
-        div(x="27.5%" y="16.5%" tooltip="At internet" numero="1")
+        div(x="27.5%" y="16.5%" tooltip="Ver más" numero="1")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
-              h5 At internet
+              h5 At Internet
               p.mt-4 Empresa francesa creada en 1996 especialista en la medición de audiencia y en el rendimiento de los sitios web, móviles, aplicaciones y redes sociales. 
             .col-lg-4.col-md-6  
               figure
-                img(src="@/assets/curso/tema3/13.svg" alt="Logo comercial que representa a At internet.")
-        div(x="68%" y="36%" tooltip="Omniture  SiteCatalyst" numero="2")
+                img(src="@/assets/curso/tema3/13.svg" alt="Logo comercial que representa a At Internet.")
+        div(x="68%" y="36%" tooltip="Ver más" numero="2")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Omniture SiteCatalyst
@@ -236,15 +236,15 @@
             .col-lg-4.col-md-6  
               figure
                 img(src="@/assets/curso/tema3/14.svg" alt="Logo que representa a Omniture SiteCatalyst.")
-        div(x="92%" y="38.5%" tooltip="Webtrends" numero="3")
+        div(x="92%" y="38.5%" tooltip="Ver más" numero="3")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Webtrends
-              p.mt-4 Empresa privada con sede en Portland, Oregón, Estados Unidos. Proporciona análisis digital, optimización y software relacionado con el marketing digital. y comercio electrónico. Brinda servicios a aproximadamente 2.000 empresas.
+              p.mt-4 Empresa privada con sede en Portland, Oregón, Estados Unidos. Proporciona análisis digital, optimización y software relacionado con el #[em marketing] digital y comercio electrónico. Brinda servicios a aproximadamente 2.000 empresas.
             .col-lg-4.col-md-6  
               figure
                 img(src="@/assets/curso/tema3/15.svg" alt="Logo que representa a Webtrends.")
-        div(x="39.5%" y="59%" tooltip="Weboscope" numero="4")
+        div(x="39.5%" y="59%" tooltip="Ver más" numero="4")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Weboscope
@@ -252,7 +252,7 @@
             .col-lg-4.col-md-6  
               figure
                 img(src="@/assets/curso/tema3/16.svg" alt="Logo que representa la empresa a Weboscope.")
-        div(x="8.8%" y="70.5%" tooltip="Google Analytics" numero="5")
+        div(x="8.8%" y="70.5%" tooltip="Ver más" numero="5")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Google Analytics
@@ -260,7 +260,7 @@
             .col-lg-4.col-md-6  
               figure
                 img(src="@/assets/curso/tema3/17.svg" alt="Logo que representa a Google Analytics.")
-        div(x="78.2%" y="83.5%" tooltip="Yahoo web Analytics" numero="6")
+        div(x="78.2%" y="83.5%" tooltip="Ver más" numero="6")
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Yahoo web Analytics
@@ -269,7 +269,7 @@
               figure
                 img(src="@/assets/curso/tema3/18.svg" alt="Logo que representa a Yahoo Web Analytics.")
 
-    p.mt-5(data-aos="zoom-in") Realizar mediciones es un aspecto clave para mejorar el desempeño del sitio en internet de experiencias turísticas, las herramientas de analítica web, proporcionan datos que permiten implementar un proceso de mejora continua, lo importante es poder identificar la herramienta que se ajusta a la necesidad de la empresa turística. 
+    p.mt-5(data-aos="zoom-in") Realizar mediciones es un aspecto clave para mejorar el desempeño del sitio en Internet de experiencias turísticas, las herramientas de analítica web, proporcionan datos que permiten implementar un proceso de mejora continua, lo importante es poder identificar la herramienta que se ajusta a la necesidad de la empresa turística. 
  
 
 

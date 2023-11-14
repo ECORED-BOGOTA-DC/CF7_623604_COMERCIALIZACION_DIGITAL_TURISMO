@@ -178,7 +178,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/623604_CF07_DU.pdf',
       },
       {
         icono: 'fas fa-download',

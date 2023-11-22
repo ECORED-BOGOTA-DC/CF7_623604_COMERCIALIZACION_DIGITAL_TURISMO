@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema4/1.svg')})`}"
       )
       .bloque-texto-g__texto.p-4.p-lg-5
-        p.mb-0 El contenido que se publique en el sitio #[em web] de la empresa del sector turístico es una buena estrategia para atraer tráfico y se puede utilizar para interactuar con las audiencias. Esto se conoce como mercadeo de contenidos, que se enfoca en crear y publicar contenido en línea; este contenido puede ser en diferentes formatos como videos, blogs, infografías, posts en redes sociales, etc. El objetivo es llamar la atención del público y generar interés en las experiencias turísticas que promociona la empresa. También ayuda a aumentar las ventas, llevando tráfico al sitio de internet, generar reconocimiento de marca, crear confianza con la audiencia e interactuar con el público.
+        p.mb-0 El contenido que se publique en el sitio #[em web] de la empresa del sector turístico es una buena estrategia para atraer tráfico y se puede utilizar para interactuar con las audiencias. Esto se conoce como mercadeo de contenidos, que se enfoca en crear y publicar contenido en línea; este contenido puede ser en diferentes formatos como videos, blogs, infografías, posts en redes sociales, etc. El objetivo es llamar la atención del público y generar interés en las experiencias turísticas que promociona la empresa. También ayuda a aumentar las ventas, llevando tráfico al sitio de Internet, generar reconocimiento de marca, crear confianza con la audiencia e interactuar con el público.
     
     p.mt-5(data-aos="zoom-in") La efectividad de las campañas de contenido se caracteriza por conocer a quién se le está dirigiendo. Cuanto más se conoce al público objetivo y se entienden los problemas, los gustos y preferencias en experiencias turísticas que buscan, más fácil será adaptar el contenido.
 
@@ -64,7 +64,7 @@
         i.fas.fa-caret-right.fa-li(style="color:#FFB338;")
         | Usar mensajes atractivos e imágenes llamativas.
 
-    p.mt-5(data-aos="zoom-in") Existen herramientas gratuitas que permiten conocer lo que los usuarios buscan en internet, como, por ejemplo: el planificador de palabras clave de Google. Además, se pueden utilizar las funciones de analítica en redes sociales como Facebook de los comportamientos del público. Es recomendable utilizar varias herramientas y comparar los resultados para obtener una visión más amplia del comportamiento en la red del público objetivo.
+    p.mt-5(data-aos="zoom-in") Existen herramientas gratuitas que permiten conocer lo que los usuarios buscan en Internet, como, por ejemplo: el planificador de palabras clave de Google. Además, se pueden utilizar las funciones de analítica en redes sociales como Facebook de los comportamientos del público. Es recomendable utilizar varias herramientas y comparar los resultados para obtener una visión más amplia del comportamiento en la red del público objetivo.
    
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FCC52E;border-radius:15px;")
@@ -124,6 +124,10 @@
             p.mt-3.mb-0 Pueden ser demostraciones de las experiencias turísticas, tutoriales y testimonios de clientes. Es un tipo de contenido atractivo y entretenido que es consumido de manera fácil.
     
     p.mt-5(data-aos="zoom-in") Además, hay que tener en cuenta algunas de las mejores prácticas para escribir textos para las audiencias de los diferentes canales.
+
+    .titulo-sexto.color-acento-contenido.mt-5
+      h5 Figura 6.
+      span Mejores prácticas para escribir textos para audiencias
 
     .row.mt-5.col-xl-11.m-auto(style="position:relative;")
       .col-lg-3(style="position:relative;")

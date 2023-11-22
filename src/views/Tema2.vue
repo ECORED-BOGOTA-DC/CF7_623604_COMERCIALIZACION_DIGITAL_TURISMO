@@ -645,7 +645,6 @@
         div(x="9.5%" y="72%" tooltip="Ver más" numero="")
           .row
             .col-md-6.mb-4.mb-md-0
-              h5(style="color:#12263F !important;") 1. Aprovisionamiento
               p(style="color:#12263F !important;") Es una fase fundamental para dar un buen nivel de servicio y alcanzar una buena eficiencia operativa. Dentro de esta fase se incluyen los procesos de gestión de proveedores, gestión de pedidos, codificación de productos y la gestión de devoluciones al proveedor.
             .col-md-6
               figure
@@ -653,7 +652,6 @@
         div(x="25.5%" y="41.5%" tooltip="Ver más" numero="")
           .row
             .col-md-6.mb-4.mb-md-0
-              h5(style="color:#12263F !important;") 2. Almacenamiento
               p(style="color:#12263F !important;") Esta fase inicia cuando el proveedor entrega un pedido y comprende procesos como la recepción de mercancías, verificación de pedidos, verificación de productos, ubicación y control de #[em(style="color:#12263F !important;") stock] e inventarios.
             .col-md-6
               figure
@@ -661,7 +659,6 @@
         div(x="51.4%" y="54%" tooltip="Ver más" numero="")
           .row
             .col-md-6.mb-4.mb-md-0
-              h5(style="color:#12263F !important;") 3. Logística de envío
               p(style="color:#12263F !important;") En esta fase se desarrollan las actividades cuando recibimos un pedido del cliente para que este llegue a su destino, como el control y reserva de #[em(style="color:#12263F !important;") stock, picking, handling, packing], facturación y envío.
             .col-md-6
               figure
@@ -669,7 +666,6 @@
         div(x="59%" y="92.2%" tooltip="Ver más" numero="")
           .row
             .col-md-6.mb-4.mb-md-0
-              h5(style="color:#12263F !important;") 4. Logística inversa
               p(style="color:#12263F !important;") En el comercio electrónico los costes de una devolución son mayores debido a que lleva asociado un coste de transporte y si, adicionalmente, se requiere un cambio debido a un error, un producto defectuoso o un cambio de talla, los costes serán mayores. En esta fase se incluyen los procesos de devoluciones de cliente, recogidas con sustitución, verificación de pedidos, relación con transporte, relación con compras y relación con CRM.
             .col-md-6
               figure

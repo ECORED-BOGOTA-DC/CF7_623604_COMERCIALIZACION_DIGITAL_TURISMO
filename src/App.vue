@@ -86,4 +86,7 @@ export default {
     width: 100% !important
   .cont_gradiente1
     margin-top: 0px !important
+  .cont_2_2:before
+    width: 100% !important
+    left: 0% !important
 </style>

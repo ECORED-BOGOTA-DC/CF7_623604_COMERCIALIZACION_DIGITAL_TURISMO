@@ -829,15 +829,17 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Los clientes deben saber cuáles son las reglas que la empresa tiene sobre las políticas de devolución, desistimiento o cancelación. Es por esto que los términos y condiciones son tan importantes en comercio electrónico de experiencias turísticas, porque establecen la forma en la que se pueden usar los productos, servicios o contenidos.
 
-    
-    .col-xl-4.col-md-8.col-lg-6.m-auto.mt-5(@click="mostrarIndicador2 = false")
-      a.indicador__container(@click="modal5 = true")
-        figure
-          img(src="@/assets/curso/tema2/56.svg" data-aos="flip-up" alt="Imagen decorativa")
-        .indicador--click(v-if="mostrarIndicador2")
-      ModalA.modal_1_1(:abrir-modal.sync="modal5")
-        .row.align-items-center
-          p.text-white Los términos y condiciones normalmente contienen información legal relacionada con las condiciones de la venta y los medios de pago, envío, entrega, condiciones de cancelación y desistimiento, etc.
+    .col-xl-9.m-auto.mt-5
+      .row
+        .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
+          figure.m-auto.col-6.col-md-6.col-lg-12
+            img(src="@/assets/curso/tema2/56.svg" alt="Imagen decorativa" style="position:relative;z-index:2;")
+        .col-lg-7(data-aos="fade-left" style="place-self:center;")
+          .cont_2_2
+            .p-4.p-lg-5
+              p.mb-0.text-white Los términos y condiciones normalmente contienen información legal relacionada con las condiciones de la venta y los medios de pago, envío, entrega, condiciones de cancelación y desistimiento, etc.
+
+
     
     p.mt-5(data-aos="zoom-in") Tener claras estas reglas, protege a las empresas turísticas sobre posibles responsabilidades; un documento de términos y condiciones debería contener las siguientes cláusulas:
 
@@ -989,4 +991,14 @@ export default {
   color: #12263F !important
 .bloque1.bloque-texto-g.color-secundario
   background-color: #3D672F
+.cont_2_2, .cont_2_2 *
+  position: relative
+.cont_2_2:before
+  content: ''
+  position: absolute
+  left: -15%
+  height: 100%
+  top: 0
+  width: 125%
+  background-color: #12263F
 </style>

@@ -477,7 +477,7 @@
 
     .col-xl-10.m-auto.mt-5
       .titulo-sexto.color-acento-contenido
-        h5 Figura 2.
+        h5 Figura 3.
         span Tienda #[em hosting], elementos de selección
       figure.mt-4
         img(src="@/assets/curso/tema2/41.svg" data-aos="zoom-in-up" alt="Figura que muestra los elementos claves que se debe tener en cuenta al seleccionar una tienda de hosting como es el espacio web, la transparencia, copias de seguridad, soporte, precio, seguridad y el certificado SSl gratuito.")

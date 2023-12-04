@@ -33,7 +33,7 @@ export default {
 .banner-interno__fondo
   background-image: url(assets/curso/fondo_tema.png) !important
 .banner-principal .tarjeta
-  background-position: inherit !important
+  background-position: right !important
 .titulo-principal__numero
   background-color: #B1DE19 !important
 .curso-main-container > .container

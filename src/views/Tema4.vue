@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema4/1.svg')})`}"
       )
       .bloque-texto-g__texto.p-4.p-lg-5
-        p.mb-0 El contenido que se publique en el sitio #[em web] de la empresa del sector turístico es una buena estrategia para atraer tráfico y se puede utilizar para interactuar con las audiencias. Esto se conoce como mercadeo de contenidos, que se enfoca en crear y publicar contenido en línea; este contenido puede ser en diferentes formatos como videos, blogs, infografías, posts en redes sociales, etc. El objetivo es llamar la atención del público y generar interés en las experiencias turísticas que promociona la empresa. También ayuda a aumentar las ventas, llevando tráfico al sitio de Internet, generar reconocimiento de marca, crear confianza con la audiencia e interactuar con el público.
+        p.mb-0 El contenido que se publique en el sitio #[em web] de la empresa del sector turístico es una buena estrategia para atraer tráfico y se puede utilizar para interactuar con las audiencias. Esto se conoce como mercadeo de contenidos, que se enfoca en crear y publicar contenido en línea; este contenido puede ser en diferentes formatos como videos, #[em blogs], infografías, posts en redes sociales, etc. El objetivo es llamar la atención del público y generar interés en las experiencias turísticas que promociona la empresa. También ayuda a aumentar las ventas, llevando tráfico al sitio de Internet, generar reconocimiento de marca, crear confianza con la audiencia e interactuar con el público.
     
     p.mt-5(data-aos="zoom-in") La efectividad de las campañas de contenido se caracteriza por conocer a quién se le está dirigiendo. Cuanto más se conoce al público objetivo y se entienden los problemas, los gustos y preferencias en experiencias turísticas que buscan, más fácil será adaptar el contenido.
 
@@ -92,7 +92,7 @@
       span Objetivos de #[em social media marketing]
     .col-xl-6.col-lg-8.m-auto.mt-4
       figure
-        img(src="@/assets/curso/tema4/2.svg" data-aos="zoom-in-up" alt="Imagen que muestra los objetivos social media marketing, loa cuales son: entretener, inspirar, educar y convencer")
+        img(src="@/assets/curso/tema4/2.svg" data-aos="zoom-in-up" alt="Imagen que muestra los objetivos social media marketing, los cuales son: entretener, inspirar, educar y convencer")
     
     p.mt-5(data-aos="zoom-in") Para esto, las empresas del sector turístico pueden utilizar varios formatos. A continuación, se presentan los más conocidos: 
 
@@ -102,7 +102,7 @@
           .h-100.p-4.p-lg-5.text-center(style="background-color:#FFF4E1;border-radius:20px;box-shadow:0px 3px 5px rgba(0,0,0,.1);" data-aos="flip-up")
             figure
               img(src="@/assets/curso/tema4/3.svg" style="max-width:150px;display:inline;" alt="Imagen decorativa")
-            h5.mt-5 Blog
+            h5.mt-5 #[em Blog]
             p.mt-3.mb-0 Se utilizan como una subsección del sitio web de la empresa turística y pueden incluir contenido original o contenido de un autor invitado. Puede ser una fuente de contenido para publicar en otros canales de la empresa.
         .col-md-6.mb-4
           .h-100.p-4.p-lg-5.text-center(style="background-color:#FFF4E1;border-radius:20px;box-shadow:0px 3px 5px rgba(0,0,0,.1);" data-aos="flip-up")
@@ -227,7 +227,7 @@
             h4 Conoce un poco más...
             p.mb-0.text-small Es necesario llevarla a cabo la planeación de contenidos digitales, pues de esta forma daremos mayor seguridad no solo en el cómo y cuándo presentamos nuestra marca, sino aseguramos presencia de nuestra marca en el mercado, por ello te invitamos a observar el siguiente video que es de interés para este tema:
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
-            a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=p7ZwZhSjqTM&t=65s" target="_blank")
+            a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=p7ZwZhSjqTM" target="_blank")
               span Ver video
               i.fas.fa-play
     

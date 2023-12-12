@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Imagen que contiene el mapa conceptual que resume la temática vista durante este componente formatico, la cual hace mención al comercio electrónico, incluyendo características, ventajas y desventajas; las plataformas tecnológicas que se conocen como son: tiendas online, redes sociales, pagos electrónicos, dropshiping, entre otros; el tráfico de comercio exterior: indicadores de rendimiento, métricas y herramientas de medición; por último, el contenido digital donde se encuentran los tipos de contenidos y las herramientas de programación.")
+          img(src="@/assets/curso/sintesis.svg", alt="Imagen que contiene el mapa conceptual que resume la temática vista durante este componente formativo, la cual hace mención al comercio electrónico, incluyendo características, ventajas y desventajas; las plataformas tecnológicas que se conocen como son: tiendas online, redes sociales, pagos electrónicos, dropshiping, entre otros; el tráfico de comercio exterior: indicadores de rendimiento, métricas y herramientas de medición; por último, el contenido digital donde se encuentran los tipos de contenidos y las herramientas de programación.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

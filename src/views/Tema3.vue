@@ -240,7 +240,7 @@
           .row
             .col-lg-8.col-md-6.mb-4.mb-md-0
               h5 Webtrends
-              p.mt-4 Empresa privada con sede en Portland, Oregón, Estados Unidos. Proporciona análisis digital, optimización y software relacionado con el #[em marketing] digital y comercio electrónico. Brinda servicios a aproximadamente 2.000 empresas.
+              p.mt-4 Empresa privada con sede en Portland, Oregón, Estados Unidos. Proporciona análisis digital, optimización y #[em software] relacionado con el #[em marketing] digital y comercio electrónico. Brinda servicios a aproximadamente 2.000 empresas.
             .col-lg-4.col-md-6  
               figure
                 img(src="@/assets/curso/tema3/15.svg" alt="Logo que representa a Webtrends.")

@@ -14,7 +14,7 @@
       .cajon.color-acento-contenido.p-4(style="background-color:#EBF7C5;" data-aos="flip-up")
         p.mb-0 Las Agencias de Viaje conocidas como OTA por su definición en inglés (#[em Online Travel Agency]). Son sitios web dedicados principalmente a la venta de servicios dentro del sector de viajes. Estos servicios son ofrecidos por sus socios o proveedores entre los cuales podemos encontrar: hoteles, hostales, aerolíneas, empresas de alquiler de automóviles, organizadores de eventos y más; quienes le pagan una comisión a la OTA al momento de recibir una reserva por parte del cliente a través de su portal.
     
-    p.mt-5(data-aos="zoom-in") Internet les permite reunir la oferta mundial de viajes en un solo lugar para que los turistas reserven sus propios viajes online. Son una herramienta de autoservicio que ha cambiado la manera en que se buscan y reservan los viajes, porque en vez de tener que recurrir a una agencia en físico, los viajeros tienen mayor facilidad para planear y reservar vuelos, alojamiento y visitas guiadas por su cuenta.
+    p.mt-5(data-aos="zoom-in") Internet les permite reunir la oferta mundial de viajes en un solo lugar para que los turistas reserven sus propios viajes #[em online]. Son una herramienta de autoservicio que ha cambiado la manera en que se buscan y reservan los viajes, porque en vez de tener que recurrir a una agencia en físico, los viajeros tienen mayor facilidad para planear y reservar vuelos, alojamiento y visitas guiadas por su cuenta.
     p.mt-4(data-aos="zoom-in") La mayoría de las OTA actúan como una red social donde los turistas aportan experiencias de viajes, imágenes y opiniones de lo que vivieron. 
     p.mt-4(data-aos="zoom-in") El proceso de compra en este tipo de sitios ocurre la mayoría de las veces mediante el canal de reservas por Internet; es el mismo usuario el que busca la mejor opción al precio que más le convenga. Las principales OTA son:
 
@@ -73,7 +73,7 @@
               figure
                 img(src='@/assets/curso/tema2/9.svg' alt="Logo comercial que representa a iFood.")
             .col-md-6.col-lg-8
-              p.text-white Creada en el año 2011 en Brasil llegó a Colombia a principios del año 2018 y tiene servicio en 7 ciudades principales como Bogotá, Cali, Medellín, Bucaramanga, Cartagena Barranquilla, Manizales, Santa Marta, Pereira, entre otras. Actualmente, está prestando sus servicios en países de América Latina, como Argentina y México.
+              p.text-white Creada en el año 2011 en Brasil, llegó a Colombia a principios del año 2018 y tiene servicio en 7 ciudades principales como Bogotá, Cali, Medellín, Bucaramanga, Cartagena, Barranquilla, Manizales, Santa Marta, Pereira, entre otras. Actualmente, está prestando sus servicios en países de América Latina, como Argentina y México.
               p.mt-4.text-white Cuenta con más de 4.000 establecimientos en Colombia en su plataforma digital. #[br] El objetivo de esta aplicación es brindar oportunidades a los negocios que no cuentan con una gran infraestructura para revolucionar la gastronomía a través de un canal comercial diferente a la venta presencial.
       .col-lg-3.mb-4.col-md-6
         a.indicador__container(@click="modal3 = true")
@@ -297,7 +297,7 @@
             td.fw-bold.p-4 Compradores
             td.p-4 Son los más interesados en comprar por la red, pero sus intereses no están limitados a las transacciones #[em online]. Pasan mucho tiempo investigando y preparando sus compras, están más interesados en la calidad que en el precio.
           tr
-            td.fw-bold.p-4 Adictos a la noticias
+            td.fw-bold.p-4 Adictos a las noticias
             td.p-4 Se caracterizan por utilizar la red como fuente primaria de información para noticias y eventos. Son activos publicando artículos, comentando y dando votos a noticias y comentarios.
           tr
             td.fw-bold.p-4 Jugadores
@@ -401,15 +401,15 @@
               img(src='@/assets/curso/tema2/37.png' alt="Imagen decorativa")
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0
-            h5.fw-bold Crear un blog.
-            p.mt-4 En algunos casos, es recomendable abrir un blog que sirva como complemento de la tienda online, para presentar los productos y/o servicios de manera más detallada y descriptiva, añadiendo fotos y videos.
+            h5.fw-bold Crear un #[em blog].
+            p.mt-4 En algunos casos, es recomendable abrir un #[em blog] que sirva como complemento de la tienda #[em online], para presentar los productos y/o servicios de manera más detallada y descriptiva, añadiendo fotos y videos.
           .col-md-6.col-lg-8
             figure
               img(src='@/assets/curso/tema2/38.png' alt="Imagen decorativa")
         .row
           .col-md-6.col-lg-4.mb-4.mb-md-0
             h5.fw-bold Crear campañas de publicidad en línea.
-            p.mt-4 Por medio de la publicidad online, se puede dar a conocer la tienda de manera económica y escalonada. De hecho, en la red existen una serie de herramientas de análisis que permiten saber con exactitud qué campañas publicitarias nos favorecen y cuáles no, de modo que ello nos permitirá rectificar al momento y evitar pérdidas innecesarias.
+            p.mt-4 Por medio de la publicidad #[em online], se puede dar a conocer la tienda de manera económica y escalonada. De hecho, en la red existen una serie de herramientas de análisis que permiten saber con exactitud qué campañas publicitarias nos favorecen y cuáles no, de modo que ello nos permitirá rectificar al momento y evitar pérdidas innecesarias.
           .col-md-6.col-lg-8
             figure
               img(src='@/assets/curso/tema2/39.png' alt="Imagen decorativa")
@@ -471,7 +471,7 @@
         | No se debe cambiar de dominio de manera constante, ya que todo el posicionamiento e imagen de marca que haya logrado no servirán de nada.
       li(data-aos="zoom-in")
         i.fas.fa-caret-right.fa-li(style="color:#FFB338;")
-        | Una vez registrado el dominio, se debe estar pendiente a la fecha de caducidad y renovarlo de inmediato.
+        | Una vez registrado el dominio, se debe estar pendiente de la fecha de caducidad y renovarlo de inmediato.
     
     p.mt-5(data-aos="zoom-in") Así mismo, cuando se va a elegir una tienda de hosting, debe buscarse una de calidad y confianza, teniendo en cuenta algunos elementos como los que se presentan en la siguiente figura.
 
@@ -493,7 +493,7 @@
               img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4 Conoce un poco más...
-            p.mb-0.text-small Cómo crear una tienda online en #[em WordPress] es un tutorial muy fácil de entender y práctico para el tema que nos ocupa con relación al comercio electrónico, por lo que te invitamos a ver el siguiente video:
+            p.mb-0.text-small Cómo crear una tienda #[em online] en #[em WordPress] es un tutorial muy fácil de entender y práctico para el tema que nos ocupa con relación al comercio electrónico, por lo que te invitamos a ver el siguiente video:
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=PV1hF2ER_Ws" target="_blank")
               span Ver video

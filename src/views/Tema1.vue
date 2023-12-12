@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El uso de Internet y de las redes sociales se ha acelerado durante los últimos años. La gran mayoría de las personas ha realizado alguna compra de productos o servicios por medios electrónicos; comprando regalos, medicamentos, ropa, pasajes, reservas en hoteles, electrodomésticos, etc. La lista es interminable y los motivos por los que lo se hace por medios electrónicos también. Desde el punto de vista de las organizaciones, el comercio electrónico ofrece una nueva forma para organizar sus actividades y hacer negocios; tener presencia en medios digitales es una ventaja para las empresas de todos los sectores económicos que les permite llegar a un mercado en crecimiento y alcanzar a una comunidad a la que difícilmente podrían llegar con un local físico.
+        p.mb-0 El uso de Internet y de las redes sociales se ha acelerado durante los últimos años. La gran mayoría de las personas ha realizado alguna compra de productos o servicios por medios electrónicos; comprando regalos, medicamentos, ropa, pasajes, reservas en hoteles, electrodomésticos, etc. La lista es interminable y los motivos por los que se hace por medios electrónicos también. Desde el punto de vista de las organizaciones, el comercio electrónico ofrece una nueva forma para organizar sus actividades y hacer negocios; tener presencia en medios digitales es una ventaja para las empresas de todos los sectores económicos que les permite llegar a un mercado en crecimiento y alcanzar a una comunidad a la que difícilmente podrían llegar con un local físico.
     
     p.mt-5(data-aos="zoom-in") En la actualidad se ha identificado la importancia que ha tomado el comercio electrónico, cada día más gente ha optado por esta forma de comprar y, más empresas lo utilizan como estrategia de comercialización. El desarrollo de las TIC ha facilitado nuevas formas de concebir los negocios, empresas que no cuentan con el capital suficiente para invertir en un sitio físico han encontrado un espacio para poder promocionar y comercializar sus productos y/o servicios, obteniendo muy buenos resultados y hasta el negocio más pequeño ha encontrado una ventaja al tener presencia en Internet.	
 
@@ -69,13 +69,13 @@
             figure
               img(src='@/assets/curso/tema1/18.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
-            p El proceso de globalización en el que estamos inmersos lleva a las Naciones Unidas a la aprobación de una Ley Modelo y de una guía para su incorporación a los ordenamientos jurídicos internos de los diferentes países. El carácter gremial del derecho mercantil ha sido reemplazado por un comercio electrónico de ámbito mundial. En 1995 se crea la Organización Mundial de Comercio (OMC), a fin de normar y regular los procesos de intercambio comercial entre los países.
+            p El proceso de globalización en el que estamos inmersos lleva a las Naciones Unidas a la aprobación de una Ley Modelo y de una guía para su incorporación a los ordenamientos jurídicos internos de los diferentes países. El carácter gremial del derecho mercantil ha sido reemplazado por un comercio electrónico de ámbito mundial. En 1995 se crea la Organización Mundial de Comercio (OMC), a fin de formar y regular los procesos de intercambio comercial entre los países.
         .row(titulo="1997")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
               img(src='@/assets/curso/tema1/19.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
-            p Es recién a fines del siglo XX cuando se puede hablar del inicio del comercio electrónico, cuando las primeras empresas introdujeron un nuevo canal de ventas basado en Internet, y donde nuevas empresas surgen como un modelo alternativo de negocios, siendo no las primeras pero sí las más exitosas hasta ahora Amazon.com, eBay, y otras.
+            p Es recién a fines del siglo XX cuando se puede hablar del inicio del comercio electrónico, cuando las primeras empresas introdujeron un nuevo canal de ventas basado en Internet, y donde nuevas empresas surgen como un modelo alternativo de negocios, siendo no las primeras, pero sí las más exitosas hasta ahora Amazon.com, eBay, y otras.
             p.mt-4 En 1997, Coca-Cola desarrolla la posibilidad de comprar productos por medio de móviles y SMS.
         .row(titulo="1998")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
@@ -91,12 +91,12 @@
             p El impulso a este nuevo modelo de negocios se vio bruscamente frenado por los eventos financieros ocurridos a finales del año 2000. El problema fue una corriente especulativa muy fuerte que se dio entre 1997 y 2001, en la cual las bolsas de valores de naciones occidentales vieron un rápido aumento de su valor debido al avance de las empresas vinculadas al nuevo sector de Internet y a la llamada Nueva Economía.
     
     p.mt-5(data-aos="zoom-in") Con el inicio del siglo XXI, llegaron nuevas tendencias que se convirtieron en herramientas para fortalecer el desarrollo del comercio electrónico. La aparición de las redes sociales, iTunes y el desarrollo de dispositivos iPhone y Android, han cambiado la forma de comunicarnos, entretenernos y simplificado la forma de comprar y hacer negocios. 
-    p.mt-4(data-aos="zoom-in") Actualmente la gran mayoría de las tiendas físicas tienen una versión en línea, incluso algunas solo tienen presencia en línea, permitiéndonos poder comprar todo tipo de productos con tan solo un par de clics.
+    p.mt-4(data-aos="zoom-in") Actualmente, la gran mayoría de las tiendas físicas tienen una versión en línea, incluso algunas solo tienen presencia en línea, permitiéndonos poder comprar todo tipo de productos con tan solo un par de clics.
 
     .col-xl-5.m-auto.col-lg-6.mt-5
       .cont_cita1.d-flex(data-aos="flip-up")
         i.fas.fa-quote-left(style="color:#3BC192;font-size:28px;")
-        h5.mt-2.p-2 El comercio electrónico es un proceso de compra, venta o intercambio de bienes servicios e información por medio de comunicación electrónicos, en donde la mayoría de las transacciones se realizan mediante pagos en línea y sin que exista una relación física, entre las partes implicadas. 
+        h5.mt-2.p-2 El comercio electrónico es un proceso de compra, venta o intercambio de bienes, servicios e información por medio de comunicación electrónica, en donde la mayoría de las transacciones se realizan mediante pagos en línea y sin que exista una relación física, entre las partes implicadas. 
         .text-end(style="align-self:end;")
           i.fas.fa-quote-right(style="color:#3BC192;font-size:28px;")
     

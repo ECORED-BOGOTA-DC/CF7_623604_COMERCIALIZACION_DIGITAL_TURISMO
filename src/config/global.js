@@ -98,7 +98,7 @@ export default {
           },
           {
             numero: '2.8',
-            titulo: 'Legislación del comercio electrónico',
+            titulo: 'Términos y condiciones de uso',
             hash: 't_2_8',
           },
         ],
@@ -316,7 +316,7 @@ export default {
       referencia:
         'SENA. (2021). <em>Planeación de contenidos digitales</em>. [Video]. YouTube.',
       tipo: 'Video SENA',
-      link: 'https://www.youtube.com/watch?v=p7ZwZhSjqTM&t=65s',
+      link: 'https://www.youtube.com/watch?v=p7ZwZhSjqTM',
     },
   ],
   glosario: [

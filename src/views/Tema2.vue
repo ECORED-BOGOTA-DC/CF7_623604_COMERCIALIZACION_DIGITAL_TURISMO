@@ -820,7 +820,7 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_8 2.8  Términos y condiciones de uso
+      h2#t_2_8 2.8 Términos y condiciones de uso
     
     .bloque-texto-g.color-secundario.bloque1.p-3.p-sm-4.p-md-5(data-aos="flip-up")
       .bloque-texto-g__img(

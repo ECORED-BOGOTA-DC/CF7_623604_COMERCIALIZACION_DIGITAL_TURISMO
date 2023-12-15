@@ -69,7 +69,7 @@
             figure
               img(src='@/assets/curso/tema1/18.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7(style="place-self:center;")
-            p El proceso de globalización en el que estamos inmersos lleva a las Naciones Unidas a la aprobación de una Ley Modelo y de una guía para su incorporación a los ordenamientos jurídicos internos de los diferentes países. El carácter gremial del derecho mercantil ha sido reemplazado por un comercio electrónico de ámbito mundial. En 1995 se crea la Organización Mundial de Comercio (OMC), a fin de formar y regular los procesos de intercambio comercial entre los países.
+            p El proceso de globalización en el que estamos inmersos lleva a las Naciones Unidas a la aprobación de una Ley Modelo y de una guía para su incorporación a los ordenamientos jurídicos internos de los diferentes países. El carácter gremial del derecho mercantil ha sido reemplazado por un comercio electrónico de ámbito mundial. En 1995 se crea la Organización Mundial de Comercio (OMC), a fin de normar y regular los procesos de intercambio comercial entre los países.
         .row(titulo="1997")
           .col-md-6.col-lg-5.mb-4.mb-md-0(style="place-self:center;")
             figure
